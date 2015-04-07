@@ -11,11 +11,11 @@ pwd
 mkdir -p orig rawd
 
 cd $geonames_dir/orig
-# echo "Fetching places data"
-# wget -nv -N  -np -r -l2 --reject '??.zip' http://download.geonames.org/export/dump/
-# wget -nv -nc -np -x http://download.geonames.org/export/dump/US.zip
-# echo "Fetching postal code data"
-# wget -nv -N -np -r -l2 --reject '??.zip,GB_full.csv.zip' http://download.geonames.org/export/zip/
+echo "Fetching places data"
+wget -nv -N  -np -r -l2 --reject '??.zip' http://download.geonames.org/export/dump/
+wget -nv -nc -np -x http://download.geonames.org/export/dump/US.zip
+echo "Fetching postal code data"
+wget -nv -N -np -r -l2 --reject '??.zip,GB_full.csv.zip' http://download.geonames.org/export/zip/
 
 cd ../rawd
 echo "Unzipping places into raw data directory"
