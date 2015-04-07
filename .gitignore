@@ -1,0 +1,7 @@
+orig/download.geonames.org
+*.log
+orig/download.geonames.org
+/old
+geonames-pois-all.json
+alternateNames.txt
+allCountries.txt
