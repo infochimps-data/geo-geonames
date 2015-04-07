@@ -1,0 +1,367 @@
+10177200	Copthorne Sharjah	Copthorne Sharjah		25.33194	55.37616	S	HTL	AE		06				0		9	Asia/Dubai	2015-04-06
+10177201	Doubletree By Hilton Marjan Is	Doubletree By Hilton Marjan Is		25.6697	55.74367	S	HTL	AE		05				0		-9999	Asia/Dubai	2015-04-06
+10177207	Banyan Tree Al Wadi	Banyan Tree Al Wadi		25.58365	55.8355	S	HTL	AE		05				0		41	Asia/Dubai	2015-04-06
+10177208	Banyan Tree Beach Resort	Banyan Tree Beach Resort		25.58365	55.8355	S	HTL	AE		05				0		41	Asia/Dubai	2015-04-06
+10177209	Loyalty Inn Al Maha Regency	Loyalty Inn Al Maha Regency		25.33127	55.3934	S	HTL	AE		06				0		10	Asia/Dubai	2015-04-06
+10177210	Grand Excelsior Hotel Sharjah	Grand Excelsior Hotel Sharjah		25.3324	55.3936	S	HTL	AE		06				0		10	Asia/Dubai	2015-04-06
+10177223	Sofitel Abu Dabhi Corniche	Sofitel Abu Dabhi Corniche		24.49933	54.36763	S	HTL	AE						0		13	Asia/Dubai	2015-04-06
+10177233	Danat Resort Jebel Dhanna	Danat Resort Jebel Dhanna		24.16498	52.64213	S	HTL	AE		01				0		-9999	Asia/Dubai	2015-04-06
+10177237	Time Oak Htl & Suites	Time Oak Htl & Suites		25.09655	55.1726	S	HTL	AE		03				0		4	Asia/Dubai	2015-04-06
+10177238	Time Topaz Apartment	Time Topaz Apartment		25.11601	55.203	S	HTL	AE		03				0		23	Asia/Dubai	2015-04-06
+10177249	Sheikh Zayed	Sheikh Zayed		25.218	55.27964	P	PPLX	AE		03				0		5	Asia/Dubai	2015-04-06
+10177240	Osumi	Osumi		40.70578	19.95218	S	HTL	AL		01				0		69	Europe/Tirane	2015-04-06
+10177204	Royal Tulip Grand Hotel Yerevan	Royal Tulip Grand Hotel Yerevan		40.1807	44.51537	S	HTL	AM						0		1002	Asia/Yerevan	2015-04-06
+10177199	Hen	Hen		47.81108	13.04118	S	HTL	AT		05	501	50101		0		424	Europe/Vienna	2015-04-06
+10177262	City Hotel Cat.Sud	City Hotel Cat.Sud		46.6178	13.8478	S	HTL	AT		02	202	20201		0		485	Europe/Vienna	2015-04-06
+2145289	Ventnor	Ventnor		-38.46273	145.19497	P	PPL	AU		07	20740			0		1	Australia/Melbourne	2015-04-06
+2151788	Reeve Lake	Reeve Lake		-38.14309	147.46618	H	LK	AU		07	26810			0		1	Australia/Melbourne	2015-04-06
+2152667	Portland	Portland	PTJ,Portland,Portlend,Портленд,پورٹلینڈ	-38.3462	141.60257	P	PPL	AU		07	22410			8841		1	Australia/Melbourne	2015-04-06
+2156532	Mount Richmond	Mount Richmond		-38.20194	141.3416	P	PPL	AU		07	22410			0		46	Australia/Melbourne	2015-04-06
+2160300	Letts Beach	Letts Beach		-38.19971	147.41395	P	PPL	AU		07	26810			0		1	Australia/Melbourne	2015-04-06
+2161604	Kentbruck	Kentbruck		-38.14978	141.27851	P	PPL	AU		07	22410			0		33	Australia/Melbourne	2015-04-06
+2172154	Cashmore	Cashmore		-38.31159	141.47743	P	PPL	AU		07	22410			0		68	Australia/Melbourne	2015-04-06
+7730272	Portland Airport	Portland Airport	PTJ,YPOD	-38.31913	141.47032	S	AIRP	AU		07	22410			0		68	Australia/Melbourne	2015-04-06
+8158480	Mount Richmond National Park	Mount Richmond National Park	Mount Richmond National Park	-38.26405	141.42698	L	PRK	AU		07	22410			0		135	Australia/Melbourne	2015-04-06
+8163157	Ventnor Koala Reserve	Ventnor Koala Reserve	Ventnor Koala Reserve	-38.4674	145.21625	L	RES	AU		07	20740			0		1	Australia/Melbourne	2015-04-06
+8578693	Paradise Beach	Paradise Beach	Paradise Beach	-38.19624	147.41515	P	PPL	AU		07	26810			0		1	Australia/Melbourne	2015-04-06
+8578696	Golden Beach	Golden Beach	Golden Beach	-38.21094	147.39867	P	PPL	AU		07	26810			0		1	Australia/Melbourne	2015-04-06
+8830908	Cashmore Primary School	Cashmore Primary School	Cashmore Primary School	-38.31056	141.47932	S	SCH	AU		07	22410			0		68	Australia/Melbourne	2015-04-06
+8856418	Henty Park	Henty Park	Henty Park	-38.35424	141.6086	S	ATHF	AU		07	22410			0		1	Australia/Melbourne	2015-04-06
+8856927	Nelson Park	Nelson Park	Nelson Park	-38.36621	141.60042	L	PRK	AU		07	22410			0		1	Australia/Melbourne	2015-04-06
+9258489	Jimmy Melrose Park	Jimmy Melrose Park		-34.98074	138.51075	L	PRK	AU		05	40070			0		9	Australia/Adelaide	2015-04-06
+10177314	Leisure Inn Central Superior So	Leisure Inn Central Superior So		-33.88481	151.20287	S	HTL	AU		02	17200			0	0	1	Australia/Sydney	2015-04-06
+10177323	Mount Surprise	Mount Surprise		-18.14658	144.319	P	PPL	AU		04	33100			0		508	Australia/Brisbane	2015-04-06
+10177385	Glenalg Beach	Glenalg Beach		-34.97907	138.51021	T	BCH	AU		05	42600			0		9	Australia/Adelaide	2015-04-06
+10177387	Water Hill Creek	Water Hill Creek		-38.29256	141.49661	H	STM	AU		07	22410			0		68	Australia/Melbourne	2015-04-06
+10177389	Portland Lookout	Portland Lookout		-38.34271	141.60718	S	OBPT	AU		07	22410			0		1	Australia/Melbourne	2015-04-06
+10177390	Portland Lighthouse	Portland Lighthouse		-38.3373	141.60921	S	LTHSE	AU		07	22410			0		-9999	Australia/Melbourne	2015-04-06
+10177393	Phillip Island Wildlife Park	Phillip Island Wildlife Park		-38.47313	145.2349	L	RESW	AU		07	20740			0		1	Australia/Melbourne	2015-04-06
+10177395	Ventnor Beach	Ventnor Beach		-38.4644	145.17644	T	BCH	AU		07	20740			0		1	Australia/Melbourne	2015-04-06
+10177239	Cetojevic	Cetojevic		44.79038	17.20034	S	HTL	BA						0		145	Europe/Sarajevo	2015-04-06
+10177344	Martin's Patershof Church Rooms	Martin's Patershof Church Rooms		51.0258	4.47399	S	HTL	BE		VLG	VAN			0	0	4	Europe/Brussels	2015-04-06
+10177300	Budapest Special Offer	Budapest Special Offer		42.70764	23.32661	S	HTL	BG		42				0	0	544	Europe/Sofia	2015-04-06
+10177301	Budapest Deluxe-Special Offer	Budapest Deluxe-Special Offer		42.70764	23.32661	S	HTL	BG		42				0	0	544	Europe/Sofia	2015-04-06
+10177302	Budapest Studio-Special Offer	Budapest Studio-Special Offer		42.70764	23.32661	S	HTL	BG		42				0	0	544	Europe/Sofia	2015-04-06
+10177198	Te Pavillion	Te Pavillion		26.2183	50.6041	S	HTL	BH		02				0		1	Asia/Bahrain	2015-04-06
+7626844	Bonaire, Saint Eustatius and Saba	Bonaire, Saint Eustatius and Saba	BES Islands,Bonair,Bonaire,Bonaire  Saint Eustatius and Saba,Bonaire  Saint Eustatius og Saba,Bonaire  Saint Eustatius  and Saba,Bonaire  Saint-Eustache et Saba,Bonaire  Sint Eustatius and Saba,Bonaire  Sint Eustatius i Saba,Bonaire  Sint Eustatius ja Saba,Bonaire  Sint Eustatius  and Saba,Bonajre  Sint-Ehstatius i Saba,Caraibi Olandesi,Municipio Especial de Bonaire,Niderlands'ki Karibs'ki ostrovi,Territorio Insular de Bonaire,Território Insular de Bonaire,bo nai er dao、 sheng you si da di si he sa ba,boneru shinto・yusutatiusuoyobisaba,nedeollandeulyeong kalibeu,Μποναίρ,Бонайре  Синт-Эстатиус и Саба,Нідерландські Карибські острови,ボネール、シント・ユースタティウスおよびサバ,博奈尔岛、圣尤斯达蒂斯和萨巴,네덜란드령 카리브	12.21286	-68.29445	A	PCLIX	BQ		00				18012		118	America/Kralendijk	2015-04-06
+10177376	Promtec - Bobinas, Etiquetas Adesivas, Tags e Ribbons	Promtec - Bobinas, Etiquetas Adesivas, Tags e Ribbons		-22.91848	-47.07268	S	MFG	BR		27	3509502			0		665	America/Sao_Paulo	2015-04-06
+10177391	Grand Solare Lençois Resort	Grand Solare Lencois Resort		-2.7443	-42.80326	S	HTL	BR		13	2101707			0	0	12	America/Fortaleza	2015-04-06
+10177279	Crystal Lodge Special Offer	Crystal Lodge Special Offer		50.11426	-122.95616	S	HTL	CA		02	5931			0	0	743	America/Vancouver	2015-04-06
+10177294	Listel Whistler Special Offer	Listel Whistler Special Offer		50.11385	-122.95687	S	HTL	CA		02	5931			0	0	743	America/Vancouver	2015-04-06
+10177211	Bernerhof Swiss Quality Hotel	Bernerhof Swiss Quality Hotel		46.49441	7.67426	S	HTL	CH		BE	249	565		0		1185	Europe/Zurich	2015-04-06
+10177212	Post Swiss Quality Hotel	Post Swiss Quality Hotel		47.03193	8.43298	S	HTL	CH		LU	312	1069		0		434	Europe/Zurich	2015-04-06
+10177284	Chur River View	Chur River View		46.84775	9.52898	S	HTL	CH		GR	1829	3901		0	0	631	Europe/Zurich	2015-04-06
+10177415	Schweizerhof Special Offer	Schweizerhof Special Offer		47.05455	8.31094	S	HTL	CH		LU	311	1061		0	0	434	Europe/Zurich	2015-04-07
+10177217	Hil Garden Inn Shenzhen Bao An	Hil Garden Inn Shenzhen Bao An		22.5302	114.04512	S	HTL	CN		30				0		2	Asia/Shanghai	2015-04-06
+10177225	Doubletree By Hilton Anhui-Suzhou	Doubletree By Hilton Anhui-Suzhou		33.66416	116.95023	S	HTL	CN		01				0		31	Asia/Shanghai	2015-04-06
+10177291	Metropole Special Offer	Metropole Special Offer		31.23718	121.48305	S	HTL	CN		23				0	0	9	Asia/Shanghai	2015-04-06
+10177347	Modena Jinjihu One Bedroom Suite	Modena Jinjihu One Bedroom Suite		31.32428	120.72717	S	HTL	CN		04				0	0	4	Asia/Shanghai	2015-04-06
+10177227	Sheraton San Jose Costa Rica	Sheraton San Jose Costa Rica		9.94771	-84.15626	S	HTL	CR		08				0		993	America/Costa_Rica	2015-04-06
+10177271	Le Meridien LimassolPool And Sea VwI	Le Meridien LimassolPool And Sea VwI		34.71178	33.17388	S	HTL	CY		05				0		16	Asia/Nicosia	2015-04-06
+10177257	Vítkov Charter	Vitkov Charter		50.09098	14.47117	S	HTL	CZ		52				0		255	Europe/Prague	2015-04-06
+10177258	Novomestsky Charter	Novomestsky Charter		50.07781	14.42351	S	HTL	CZ		52				0		214	Europe/Prague	2015-04-06
+10177259	Kavalír Charter	Kavalir Charter		50.0699	14.3715	S	HTL	CZ		52				0		240	Europe/Prague	2015-04-06
+10177263	Sheraton Charles Square Junior Suite	Sheraton Charles Square Junior Suite		50.07743	14.42246	S	HTL	CZ		52				0		214	Europe/Prague	2015-04-06
+10177267	Kempinsky Hybernska-Superior Rooms	Kempinsky Hybernska-Superior Rooms		50.08701	14.43147	S	HTL	CZ		52				0		192	Europe/Prague	2015-04-06
+10177318	U Tri Korunek Min Stay	U Tri Korunek Min Stay		50.08657	14.45168	S	HTL	CZ		52				0	0	243	Europe/Prague	2015-04-06
+2857974	Oedeme	Oedeme		53.22814	10.37629	P	PPLX	DE		06				0		26	Europe/Berlin	2015-04-06
+2858247	Ochtmissen	Ochtmissen		53.27597	10.38831	P	PPLX	DE		06				0		26	Europe/Berlin	2015-04-06
+2912607	Hagen	Hagen		53.23192	10.45994	P	PPLX	DE		06				0		49	Europe/Berlin	2015-04-06
+2912839	Häcklingen	Haecklingen	Hacklingen,Häcklingen	53.21473	10.38959	P	PPLX	DE		06				0		29	Europe/Berlin	2015-04-06
+2917326	Grimm	Grimm		53.25081	10.39212	P	PPL	DE		06				0		27	Europe/Berlin	2015-04-06
+2922416	Garze	Garze		53.30675	10.69635	P	PPLX	DE		06				0		9	Europe/Berlin	2015-04-06
+2929742	Erbstorf	Erbstorf		53.27469	10.47808	P	PPLX	DE		06				0		32	Europe/Berlin	2015-04-06
+2945602	Brackede	Brackede		53.35404	10.70601	P	PPL	DE		06				0		8	Europe/Berlin	2015-04-06
+2952403	Barskamp	Barskamp		53.24336	10.78092	P	PPLX	DE		06				0		52	Europe/Berlin	2015-04-06
+2952814	Bardowick	Bardowick	Bardenuvicum,Bardovik,Bardowick,Bardowiek,Bewick,ba er duo wei ke,Бардовик,巴尔多维克	53.29354	10.38811	P	PPLA4	DE		06				6026		10	Europe/Berlin	2015-04-06
+2957196	Alt Garge	Alt Garge	Alt Garge,Garge	53.26284	10.79143	P	PPLX	DE		06				0		23	Europe/Berlin	2015-04-06
+6558878	Bardowick	Bardowick		53.2877	10.3921	A	ADM4	DE		06	00	03355	03355004	6567		11	Europe/Berlin	2015-04-06
+10177203	Polo Novum	Polo Novum		53.55272	10.01089	S	HTL	DE		04	00	02000	02000000	0		3	Europe/Berlin	2015-04-06
+10177261	Ramada Berlin MitteSpeciale	Ramada Berlin MitteSpeciale		52.52985	13.38397	S	HTL	DE		16	00	11000	11000000	0		35	Europe/Berlin	2015-04-06
+10177265	auf dem Höchsten	auf dem Hoechsten		51.22601	6.98399	S	FRM	DE		07	051	05158	05158024	0		149	Europe/Berlin	2015-04-06
+10177285	Comfort Lichtenberg Early Booker	Comfort Lichtenberg Early Booker		52.53357	13.51753	S	HTL	DE		16	00	11000	11000000	0	0	50	Europe/Berlin	2015-04-06
+10177308	Holiday Inn Express Early Booker	Holiday Inn Express Early Booker		48.76917	8.23004	S	HTL	DE		01	082	08211	08211000	0	0	219	Europe/Berlin	2015-04-06
+10177326	Sheraton Arabellapark Min Stay	Sheraton Arabellapark Min Stay		48.1511	11.61857	S	HTL	DE		02	091	09162	09162000	0	0	520	Europe/Berlin	2015-04-06
+10177362	Beckhaus	Beckhaus		51.20742	6.9553	S	FRMQ	DE		07	051	05158	05158004	0		79	Europe/Berlin	2015-04-06
+10177366	Niederschwarzbach	Niederschwarzbach	Duengershof,Düngershof	51.27878	6.98459	S	FRM	DE		07	051	05158	05158024	0		172	Europe/Berlin	2015-04-06
+10177372	Morper Mühle	Morper Muehle		51.22484	6.89406	S	FRMQ	DE		07	051	05158	05158004	0		59	Europe/Berlin	2015-04-06
+10177373	Brügger Mühle	Bruegger Muehle		51.22655	6.91996	S	ML	DE		07	051	05158	05158004	0		99	Europe/Berlin	2015-04-06
+10177374	Flügel	Fluegel		51.08737	7.13673	S	FRM	DE		07	053	05378	05378008	0		203	Europe/Berlin	2015-04-06
+10177398	Band	Band		51.26512	6.92409	S	FRM	DE		07	051	05111	05111000	0		137	Europe/Berlin	2015-04-06
+10177245	Copenhagen IslandArp	Copenhagen IslandArp		55.663	12.562	S	HTL	DK		17	101			0		1	Europe/Copenhagen	2015-04-06
+10177246	Phoenix Arp Small Bed	Phoenix Arp Small Bed		55.68292	12.58889	S	HTL	DK		17	101			0		-9999	Europe/Copenhagen	2015-04-06
+10177321	Gentofte Special Offer	Gentofte Special Offer		55.74823	12.54119	S	HTL	DK		17	157			0	0	22	Europe/Copenhagen	2015-04-06
+10177379	Excellence Excellence Club Junior Suite Garden-	Excellence Excellence Club Junior Suite Garden-		18.82738	-68.60132	S	HTL	DO		10				0	0	1	America/Santo_Domingo	2015-04-06
+10177381	Nicolas De Ovando Superior Room Max 2Ad 1Child 30 Or More Days Advance Booking Offer	Nicolas De Ovando Superior Room Max 2Ad 1Child 30 Or More Days Advance Booking Offer		18.47455	-69.8828	S	HTL	DO						0	0	7	America/Santo_Domingo	2015-04-06
+2486177	N’Gaous	N'Gaous	N'Gaous,N’Gaous,nqaws,نقاوس	35.555	5.61056	P	PPL	DZ		03				0		758	Africa/Algiers	2015-04-06
+2502625	Boumagueur	Boumagueur	Boumagueur,bwmqr,بــومقر	35.5052	5.5525	T	SLP	DZ		03				8482	756	671	Africa/Algiers	2015-04-06
+10177367	Boumagueur	Boumagueur	bwmqr,بــومقر	35.50527	5.5525	P	PPL	DZ		03				8482	756	671	Africa/Algiers	2015-04-06
+10177281	La Mola	La Mola		38.66746	1.53414	T	ISLX	ES		07	PM	07024		0		163	Europe/Madrid	2015-04-06
+10177292	Cabo Blanco	Cabo Blanco		39.36703	2.79164	T	ISLX	ES		07	PM	07031		0		82	Europe/Madrid	2015-04-06
+10177290	City Lux Room	City Lux Room		66.50123	25.72958	S	HTL	FI		19	191	698		0	0	84	Europe/Helsinki	2015-04-06
+10177304	Bw Levi Snow White Levin Klubi Studio	Bw Levi Snow White Levin Klubi Studio		67.80505	24.80618	S	HTL	FI		19	196	261		0	0	221	Europe/Helsinki	2015-04-06
+10177315	Lapland Akashotelli SuperiorKanerva	Lapland Akashotelli SuperiorKanerva		67.60386	24.17138	S	HTL	FI		19	196	273		0	0	223	Europe/Helsinki	2015-04-06
+10177333	Break Sokos Levi Superior With Sauna	Break Sokos Levi Superior With Sauna		67.80504	24.80543	S	HTL	FI		19	196	261		0	0	221	Europe/Helsinki	2015-04-06
+10177195	All Seasons	All Seasons		48.075	7.355	S	HTL	FR		C1	68	682	68066	0		188	Europe/Paris	2015-04-06
+10177197	Ibis	Ibis		43.3959	4.37585	S	HTL	FR		B8	13	132	13096	0		-9999	Europe/Paris	2015-04-06
+10177250	Novotel Paris Bercy Family Room	Novotel Paris Bercy Family Room		48.83894	2.3808	S	HTL	FR		A8	75	751	75056	0		37	Europe/Paris	2015-04-06
+10177252	Novotel Paris Gare De Lyon Superior Triple	Novotel Paris Gare De Lyon Superior Triple		48.84586	2.37406	S	HTL	FR		A8	75	751	75056	0		35	Europe/Paris	2015-04-06
+10177255	Novotel Paris Gare De Lyon Sup Family Room	Novotel Paris Gare De Lyon Sup Family Room		48.84586	2.37406	S	HTL	FR		A8	75	751	75056	0		35	Europe/Paris	2015-04-06
+10177256	Opera Cadet Family Room	Opera Cadet Family Room		48.8754	2.34352	S	HTL	FR		A8	75	751	75056	0		51	Europe/Paris	2015-04-06
+10177260	Citadines Prestige St Germain Des Pres Studio Premier	Citadines Prestige St Germain Des Pres Studio Premier		48.85539	2.34113	S	HTL	FR		A8	75	751	75056	0		30	Europe/Paris	2015-04-06
+10177264	Le Mouton Blanc Mont Saint Michel	Le Mouton Blanc Mont Saint Michel		48.6366	-1.51156	S	HTL	FR		99				0		-9999	Europe/Paris	2015-04-06
+10177266	Timhotel Opera Madeleine Sup Family Room	Timhotel Opera Madeleine Sup Family Room		48.87539	2.32615	S	HTL	FR		A8	75	751	75056	0		45	Europe/Paris	2015-04-06
+10177296	Kyriad Paris Sud Arcueil Cachan	Kyriad Paris Sud Arcueil Cachan		48.79756	2.32879	S	HTL	FR		A8	94	943	94016	0	0	49	Europe/Paris	2015-04-06
+10177192	Best Western Salford Hall Hote	Best Western Salford Hall Hote		52.15073	-1.90182	S	HTL	GB		ENG	P3	44UE	44UE079	0		71	Europe/London	2015-04-06
+10177193	St George's Victoria	St George's Victoria		51.48853	-0.13952	S	HTL	GB		ENG	GLA	P5		0		15	Europe/London	2015-04-06
+10177194	Clink261	Clink261		51.529	-0.12	S	HTL	GB		ENG	GLA	C4		0		30	Europe/London	2015-04-06
+10177275	Hilton On Park Lane Mayfair Suite	Hilton On Park Lane Mayfair Suite		51.50566	-0.15036	S	HTL	GB		ENG	GLA	P5		0		23	Europe/London	2015-04-06
+10177320	Middlesex	Middlesex		51.53174	-0.26856	P	PPLX	GB		ENG	GLA	B5		0		36	Europe/London	2015-04-06
+263892	Ákra Ágios Ioánnis	Akra Agios Ioannis	Akra Agios Ioannis,Akra Ayios Ioannis,Akra Tzouanna,Akra Zouanna,Cape Ayios Ioannis,Cape Zuana,Cape Áyios Ioánnis,Tsouana,Tsouána,Ákra Tzouánna,Ákra Zouánna,Ákra Ágios Ioánnis,Ákra Áyios Ioánnis,Άκρα Άγιος Ιωάννης	38.83408	20.65139	P	PPLX	GR		ESYE22	26			0		-9999	Europe/Athens	2015-04-06
+10177242	Apollonion	Apollonion		38.9152	21.7926	S	HTL	GR		ESYE24	30	9157		0		948	Europe/Athens	2015-04-06
+10177295	Peninsula Half Board-Sea View	Peninsula Half Board-Sea View		35.41469	25.01932	S	HTL	GR		ESYE43	45	9306		0	0	1	Europe/Athens	2015-04-06
+10177351	Melia Athens Melia Guestroom-Room Only	Melia Athens Melia Guestroom-Room Only		37.98603	23.73013	S	HTL	GR		ESYE31	445408	9186		0	0	126	Europe/Athens	2015-04-06
+10177377	Hanioti	Hanioti		40.00251	23.57245	P	PPLX	GR		ESYE12	15	9057		0		-9999	Europe/Athens	2015-04-06
+10177382	Askeli	Askeli		37.50913	23.46781	P	PPL	GR		ESYE31	406101			0		17	Europe/Athens	2015-04-06
+10177276	Guam Reef And Olive Beach Twin	Guam Reef And Olive Beach Twin		13.51632	144.80618	S	HTL	GU		TM				0		3	Pacific/Guam	2015-04-06
+10177277	Guam Reef And Olive Ocean Deluxe	Guam Reef And Olive Ocean Deluxe		13.51632	144.80618	S	HTL	GU		TM				0		3	Pacific/Guam	2015-04-06
+10177278	Guam Reef And Olive Infinity Twin	Guam Reef And Olive Infinity Twin		13.51632	144.80618	S	HTL	GU		TM				0		3	Pacific/Guam	2015-04-06
+10177298	Rambler Oasis Special Offer	Rambler Oasis Special Offer		22.34234	114.10988	S	HTL	HK						0	0	1	Asia/Hong_Kong	2015-04-06
+10177251	Hotel Carmen Room Basic	Hotel Carmen Room Basic		47.51385	19.10353	S	HTL	HU		05				0		103	Europe/Budapest	2015-04-06
+10177253	Danubius Astoria City Centre De Lux Room	Danubius Astoria City Centre De Lux Room		47.49405	19.05938	S	HTL	HU		05				0		95	Europe/Budapest	2015-04-06
+10177254	Danubius Astoria City Centre Standard Room	Danubius Astoria City Centre Standard Room		47.49382	19.0586	S	HTL	HU		05				0		95	Europe/Budapest	2015-04-06
+10177280	Mercure Duna Special Offer	Mercure Duna Special Offer		47.47916	19.06842	S	HTL	HU		05				0	0	97	Europe/Budapest	2015-04-06
+10177188	Pop Hotels Teuku Umar	Pop Hotels Teuku Umar		-8.67681	115.18584	S	HTL	ID		02				0		9	Asia/Makassar	2015-04-06
+10177189	Pop Hotel Sangaji Yogyakarta	Pop Hotel Sangaji Yogyakarta		-7.777	110.368	S	HTL	ID		10				0		166	Asia/Jakarta	2015-04-06
+10177190	Gran Melia Level Deluxe	Gran Melia Level Deluxe		-6.23486	106.83013	S	HTL	ID		04				0		16	Asia/Jakarta	2015-04-06
+10177191	Travelodge City Centre	Travelodge City Centre		53.32242	-6.26618	S	HTL	IE		L				0		25	Europe/Dublin	2015-04-06
+10177307	North Star Non Refund	North Star Non Refund		53.35179	-6.25004	S	HTL	IE		L				0	0	1	Europe/Dublin	2015-04-06
+10177416	Temple Bar Early Booker	Temple Bar Early Booker		53.34584	-6.26021	S	HTL	IE		L				0	0	2	Europe/Dublin	2015-04-07
+10177213	Apex Intercontinental	Apex Intercontinental		26.89846	75.82943	S	HTL	IN		24	110			0		439	Asia/Kolkata	2015-04-06
+10177214	K K Royal Days	K K Royal Days		26.98994	75.86502	S	HTL	IN		24	110			0		396	Asia/Kolkata	2015-04-06
+10177215	Oriental Palace Resort	Oriental Palace Resort		24.58049	73.71523	S	HTL	IN		24	130			0		568	Asia/Kolkata	2015-04-06
+10177216	Ramada Resort	Ramada Resort		24.58429	73.64906	S	HTL	IN		24	130			0		631	Asia/Kolkata	2015-04-06
+10177328	Svelte Personal Suites Deluxe SuiteT	Svelte Personal Suites Deluxe SuiteT		28.52843	77.21907	S	HTL	IN		07	098			0	0	220	Asia/Kolkata	2015-04-06
+10177335	Utkarsh Vilas T	Utkarsh Vilas T		27.15793	78.05755	S	HTL	IN		36	146			0	0	169	Asia/Kolkata	2015-04-06
+10177343	Eight Bastion T	Eight Bastion T		9.96451	76.23897	S	HTL	IN						0	0	-9999	Asia/Kolkata	2015-04-06
+10177345	Best Western Skycity T	Best Western Skycity T		28.45832	77.03458	S	HTL	IN		10	086			0	0	219	Asia/Kolkata	2015-04-06
+10177349	Citrus Gurgaon T	Citrus Gurgaon T		28.4669	77.06643	S	HTL	IN		10	086			0	0	227	Asia/Kolkata	2015-04-06
+10177413	Floatel T	Floatel T		22.56994	88.34198	S	HTL	IN		28	341			0	0	17	Asia/Kolkata	2015-04-06
+10177418	Libra T	Libra T		26.94393	75.77208	S	HTL	IN		24	110			0	0	426	Asia/Kolkata	2015-04-07
+10177299	Bjork Special Offer	Bjork Special Offer		64.14135	-21.90421	S	HTL	IS		39				0	0	33	Atlantic/Reykjavik	2015-04-06
+3176959	Florence	Florence	FLR,Fflorens,Firenca,Firence,Firense,Firenz,Firenze,Firenzi,Florans,Floransa,Florenc,Florenca,Florence,Florenceje,Florenci,Florencia,Florencie,Florencij,Florencija,Florencja,Florenco,Florencėjė,Florens,Florensa,Florensiya,Florensya,Florenta,Florentia,Florentzia,Florenz,Florença,Florența,Florâns,Florència,Floréncia,Florénsa,Flórans,Flórens,Gorad Flarehncyja,Lungsod ng Florencia,Sciorenza,fei leng cui,firentsu~e,florensa,flwrans,flwrns,flwrnsa,flxrens,fu luo lun sa,phlorens,phlorensa,pilenche,plorentsia,pyrnzh,Φλωρεντία,Горад Фларэнцыя,Фиренца,Флоренц,Флоренци,Флоренций,Флоренция,Флоренція,Ֆլորենցիա,פירנצה,פירענצע,فلورانس,فلورنس,فلورنسا,फ़्लोरेन्स,फ्लोरेन्स,ফ্লোরেন্স,ఫ్లోరెన్స్,ഫ്ലോറൻസ്,ฟลอเรนซ์,ཧྥུ་ལོ་རོན་ཟིའུ་ཡ།,ფლორენცია,フィレンツェ,佛罗伦萨,翡冷翠,피렌체	43.77925	11.24626	P	PPLA	IT		16	FI	048017		349296	50	51	Europe/Rome	2015-04-06
+10177218	Centro Vacanze La Limonaia	Centro Vacanze La Limonaia		45.82223	10.80291	S	HTL	IT		09	BS	017089		0		81	Europe/Rome	2015-04-06
+10177219	Sheraton Catania Hotel & Conference Center	Sheraton Catania Hotel & Conference Center		37.54196	15.13681	S	HTL	IT		15	CT			0		1	Europe/Rome	2015-04-06
+10177220	Buongusto Hotel & Restaurant	Buongusto Hotel & Restaurant		40.02056	18.24266	S	HTL	IT		13	LE	075081		0		122	Europe/Rome	2015-04-06
+10177221	Baia Taormina Grand Hotel Palace & Spa	Baia Taormina Grand Hotel Palace & Spa		37.90899	15.34095	S	HTL	IT						0		309	Europe/Rome	2015-04-06
+10177222	Best Western Hotel Quattro Torri	Best Western Hotel Quattro Torri		43.09531	12.32121	S	HTL	IT		18	PG	054039		0		293	Europe/Rome	2015-04-06
+10177273	Santa Costanza Special Offer	Santa Costanza Special Offer		41.92074	12.51792	S	HTL	IT		07	RM	058091		0		25	Europe/Rome	2015-04-06
+10177287	Best Western Quattrotorri Min 2 Nt	Best Western Quattrotorri Min 2 Nt		43.09629	12.31715	S	HTL	IT		18	PG	054015		0	0	293	Europe/Rome	2015-04-06
+10177411	Fontana Min 5 Night Stay	Fontana Min 5 Night Stay		40.63376	14.60247	S	HTL	IT		04	SA	065006		0	0	-9999	Europe/Rome	2015-04-06
+10177412	Cruise Min Stay Offer	Cruise Min Stay Offer		45.7829	9.04872	S	HTL	IT		09	CO	013154		0	0	322	Europe/Rome	2015-04-06
+10177417	Demetra Resort Early Booker	Demetra Resort Early Booker		37.27684	13.57807	S	HTL	IT		15	AG	084001		0	0	13	Europe/Rome	2015-04-07
+10177234	Azul Sensatori Jamaica A Gourmet Inclusive Resort	Azul Sensatori Jamaica A Gourmet Inclusive Resort		18.33177	-78.33671	S	HTL	JM		02				0		-9999	America/Jamaica	2015-04-06
+10177380	Grand Luxury Bahia Principe Runaway Bay Junior Suite Deluxe-	Grand Luxury Bahia Principe Runaway Bay Junior Suite Deluxe-		18.46128	-77.35001	S	HTL	JM						0	0	10	America/Jamaica	2015-04-06
+10177269	Prince Kazenamiki West Jpn	Prince Kazenamiki West Jpn		44.07169	145.0005	S	HTL	JP		12	7428106			0		89	Asia/Tokyo	2015-04-06
+10177270	Lucent Takamiya Japanese	Lucent Takamiya Japanese		38.16345	140.39153	S	HTL	JP		44				0		817	Asia/Tokyo	2015-04-06
+10177274	Kagaya Japanese	Kagaya Japanese		37.09017	136.91449	S	HTL	JP		15				0		3	Asia/Tokyo	2015-04-06
+10177286	Le Meridien Angkor Ro	Le Meridien Angkor Ro		13.37713	103.86073	S	HTL	KH		24				0	0	11	Asia/Phnom_Penh	2015-04-06
+10177353	Cambodiana Superior River View	Cambodiana Superior River View		11.56342	104.9311	S	HTL	KH		22				0	0	22	Asia/Phnom_Penh	2015-04-06
+10177405	Novotel Ambassador BusanDlx Ocean View	Novotel Ambassador BusanDlx Ocean View		35.16017	129.16305	S	HTL	KR		10				0	0	9	Asia/Seoul	2015-04-06
+10177288	Europa City Aurora Special Offer	Europa City Aurora Special Offer		55.68934	21.14093	S	HTL	LT		58				0	0	-9999	Europe/Vilnius	2015-04-06
+10177289	Comfort Hotel Lt Special Offer	Comfort Hotel Lt Special Offer		54.67188	25.27625	S	HTL	LT		65				0	0	151	Europe/Vilnius	2015-04-06
+10177241	Dzintarjura	Dzintarjura		57.38898	21.56207	S	HTL	LV		32				0		11	Europe/Riga	2015-04-06
+10177306	Albert Special Offer	Albert Special Offer		56.95888	24.11318	S	HTL	LV		25				0	0	10	Europe/Riga	2015-04-06
+10177309	Days Hotel Riga Vef Special Offer	Days Hotel Riga Vef Special Offer		56.97185	24.16015	S	HTL	LV		25				0	0	12	Europe/Riga	2015-04-06
+10177293	Baltic Beach Hotel And Spa Economy	Baltic Beach Hotel And Spa Economy		23.79647	23.79647	S	HTL	LY		08				0	0	346	Africa/Tripoli	2015-04-06
+10177375	Landmark Amman	Landmark Amman		31.96041	23.30797	S	HTL	LY		42				0	0	193	Africa/Tripoli	2015-04-06
+10177324	St Patrick's Valley View	St Patrick's Valley View		36.03028	14.21764	S	HTL	MT		36				0	0	-9999	Europe/Malta	2015-04-06
+10177397	Porto Azzurro Apartamentos	Porto Azzurro Apartamentos		35.9474	14.38237	S	HTL	MT		52				0	0	1	Europe/Malta	2015-04-06
+8582047	Huehuetla	Huehuetla		20.51403	-98.06985	A	ADM2	MX		13	027			22927		800	America/Mexico_City	2015-04-06
+8582048	Huejutla de Reyes	Huejutla de Reyes		21.11613	-98.47705	A	ADM2	MX		13	028			0		316	America/Mexico_City	2015-04-06
+8583116	Huehuetla	Huehuetla		20.10391	-97.62507	A	ADM2	MX		21	072			0		522	America/Mexico_City	2015-04-06
+10177231	Express Posada Acueducto	Express Posada Acueducto		19.50751	-96.86606	S	HTL	MX		30	065			0		1204	America/Mexico_City	2015-04-06
+10177229	Eastern Pavilion Boutique Resort & Spa	Eastern Pavilion Boutique Resort & Spa		4.0991	103.38418	S	HTL	MY		06				0		1	Asia/Kuala_Lumpur	2015-04-06
+10177247	Hampshire Inn Prinsengracht Small Dbl	Hampshire Inn Prinsengracht Small Dbl		52.362	4.894	S	HTL	NL		07	0363			0		-2	Europe/Amsterdam	2015-04-06
+10177404	Carlton Beach Seaview	Carlton Beach Seaview		52.11729	4.2876	S	HTL	NL		11	0518			0	0	-9999	Europe/Amsterdam	2015-04-06
+10177235	Sky City Grand Hotel	Sky City Grand Hotel		-36.84919	174.76226	S	HTL	NZ		E7	076			0		1	Pacific/Auckland	2015-04-06
+10177400	San Matias-San Carlos Protected Forest	San Matias-San Carlos Protected Forest		-10.559	-74.993	V	FRST	PE		19	1903	190306		0		700	America/Lima	2015-04-06
+10177401	Yanesha Communal Reservation	Yanesha Communal Reservation		-10.299	-75.272	L	RESV	PE		19	1903	190304		0		615	America/Lima	2015-04-06
+2083416	Woganakai	Woganakai	Woganakai,Wongankai	-5.22203	150.01333	P	PPL	PG		17				0		1	Pacific/Port_Moresby	2015-04-06
+2083755	Warou	Warou		-5.32199	150.03402	P	PPL	PG		17				0		43	Pacific/Port_Moresby	2015-04-06
+2083896	Wanguwangu	Wanguwangu		-5.1186	150.08912	P	PPL	PG		17				0		370	Pacific/Port_Moresby	2015-04-06
+2084006	Walo	Walo		-5.49827	150.87786	P	PPL	PG		17				0		234	Pacific/Port_Moresby	2015-04-06
+2084325	Vovosi	Vovosi	Vavosi,Vovosi	-5.42991	150.43296	P	PPL	PG		17				0		250	Pacific/Port_Moresby	2015-04-06
+2084332	Volupai	Volupai	Volupai,Waiupai	-5.26896	149.97509	P	PPL	PG		17				0		101	Pacific/Port_Moresby	2015-04-06
+2084415	Vavua	Vavua		-5.52202	150.58127	P	PPL	PG		17				0		215	Pacific/Port_Moresby	2015-04-06
+2084447	Valoka	Valoka	Valoka,Valoka Mission	-5.44294	150.4987	P	PPL	PG	PG	17				0		297	Pacific/Port_Moresby	2015-04-06
+2085318	Toiru River	Toiru River		-5.39102	150.99317	H	WTRC	PG		17				0		3	Pacific/Port_Moresby	2015-04-06
+2085760	Tarobi	Tarobi		-5.45333	150.79718	P	PPL	PG		17				0		211	Pacific/Port_Moresby	2015-04-06
+2086188	Sulu	Sulu		-5.44782	150.9606	P	PPL	PG		17				0		260	Pacific/Port_Moresby	2015-04-06
+2087530	Ruango	Ruango		-5.55235	150.16392	P	PPLX	PG		17				0		215	Pacific/Port_Moresby	2015-04-06
+2087631	Rikau	Rikau		-5.4831	150.50252	P	PPL	PG		17				0		350	Pacific/Port_Moresby	2015-04-06
+2088255	Podu	Podu		-5.47349	150.49467	P	PPL	PG		17				0		497	Pacific/Port_Moresby	2015-04-06
+2088564	Patanga	Patanga		-5.39603	150.06595	P	PPL	PG		17				0		163	Pacific/Port_Moresby	2015-04-06
+2088580	Pasiloke	Pasiloke		-5.3545	150.0405	P	PPL	PG		17				0		76	Pacific/Port_Moresby	2015-04-06
+2088673	Pangalu	Pangalu	Pangalu,Pangalu Number 1	-5.23669	150.0605	P	PPL	PG	PG	17				0		86	Pacific/Port_Moresby	2015-04-06
+2090463	Morokia	Morokia		-5.56044	150.16122	P	PPLX	PG		17				0		216	Pacific/Port_Moresby	2015-04-06
+2090621	Moimoi	Moimoi		-5.45486	150.76006	P	PPL	PG		17				0		210	Pacific/Port_Moresby	2015-04-06
+2091219	Matalilu	Matalilu	Mataliliu,Matalilu	-5.33754	151.00923	P	PPLX	PG		17				0		271	Pacific/Port_Moresby	2015-04-06
+2091242	Mataburu	Mataburu	Mataburu,Mataruru	-5.38134	151.02146	P	PPL	PG		17				0		263	Pacific/Port_Moresby	2015-04-06
+2091754	Malalia Mission	Malalia Mission	Malalia,Malalia Mission	-5.45738	150.53018	S	MSSN	PG	PG	17				0		256	Pacific/Port_Moresby	2015-04-06
+2091811	Makasili	Makasili		-5.48421	150.56943	P	PPLX	PG		17				0		227	Pacific/Port_Moresby	2015-04-06
+2091915	Mai Mission	Mai Mission		-5.55008	150.29576	P	PPLX	PG		17				0		231	Pacific/Port_Moresby	2015-04-06
+2092224	Mount Lollo	Mount Lollo		-5.46725	150.50828	T	MT	PG		17				0		377	Pacific/Port_Moresby	2015-04-06
+2092369	Liapo	Liapo		-5.28695	149.98029	P	PPL	PG		17				0		285	Pacific/Port_Moresby	2015-04-06
+2092486	Lavilelo	Lavilelo		-5.47667	150.4186	P	PPL	PG		17				0		223	Pacific/Port_Moresby	2015-04-06
+2092543	Lasibu	Lasibu		-5.48819	150.83254	P	PPL	PG		17				0		225	Pacific/Port_Moresby	2015-04-06
+2092878	Kwalakesi	Kwalakesi	Kwalakesi,Kwalakessi	-5.47362	150.38777	P	PPL	PG		17				0		179	Pacific/Port_Moresby	2015-04-06
+2093172	Kulungi	Kulungi	Kulingai,Kulungi	-5.53317	150.11431	P	PPL	PG	PG	17				0		250	Pacific/Port_Moresby	2015-04-06
+2093657	Kololo	Kololo		-5.42974	150.46901	P	PPL	PG		17	2085943	7668037		0		340	Pacific/Port_Moresby	2015-04-06
+2093967	Kimbe	Kimbe	Kimbe	-5.55085	150.13766	P	PPLA	PG		17				18847		238	Pacific/Port_Moresby	2015-04-06
+2093973	Rilu	Rilu	Kilu,Rilu	-5.42227	150.07732	P	PPL	PG		17				0		-9999	Pacific/Port_Moresby	2015-04-06
+2094053	Kiava	Kiava		-5.39001	151.02905	P	PPL	PG		17				0		267	Pacific/Port_Moresby	2015-04-06
+2094160	Kerapi	Kerapi		-5.46913	150.55574	P	PPLX	PG		17				0		237	Pacific/Port_Moresby	2015-04-06
+2094333	Kavutu	Kavutu		-5.43402	150.48682	P	PPL	PG		17				0		302	Pacific/Port_Moresby	2015-04-06
+2094670	Kapiura River	Kapiura River	Kapiura River,Kapuira River,Kapuru River	-5.5389	150.65875	H	WTRC	PG		17				0		0	Pacific/Port_Moresby	2015-04-06
+2094681	Mount Kapberg	Mount Kapberg		-5.4558	150.49557	T	CONE	PG		17				0		432	Pacific/Port_Moresby	2015-04-06
+2095081	Kaiamu	Kaiamu	Kaiama,Kaiamu,Kiamu	-5.46055	150.9082	P	PPL	PG		17				0		294	Pacific/Port_Moresby	2015-04-06
+2096037	Hoskins	Hoskins	HKN,Hoskins	-5.48152	150.39232	P	PPL	PG		17				0		190	Pacific/Port_Moresby	2015-04-06
+2096366	Hangulakakan Island	Hangulakakan Island		-5.47847	150.85604	T	ISL	PG		17				0		-9999	Pacific/Port_Moresby	2015-04-06
+2096542	Gusi	Gusi		-5.51578	150.72324	P	PPL	PG		17				0		195	Pacific/Port_Moresby	2015-04-06
+2097093	Gavuvu	Gavuvu		-5.46503	150.53394	P	PPL	PG		17				0		247	Pacific/Port_Moresby	2015-04-06
+2097094	Gavuvu	Gavuvu		-5.46499	150.53407	P	PPLX	PG		17				0		247	Pacific/Port_Moresby	2015-04-06
+2097113	Gaungo	Gaungo	Gaungo,Gonga,Gongo	-5.55754	150.26207	P	PPL	PG		17				0		197	Pacific/Port_Moresby	2015-04-06
+2097241	Galoale	Galoale		-5.43551	150.42137	P	PPL	PG		17				0		242	Pacific/Port_Moresby	2015-04-06
+2097246	Galilo	Galilo		-5.47597	150.54922	P	PPL	PG		17				0		243	Pacific/Port_Moresby	2015-04-06
+2097514	Ewase	Ewase	Ewasse	-5.34651	151.01502	P	PPL	PG		17				0		270	Pacific/Port_Moresby	2015-04-06
+2098443	Lake Dakataua	Lake Dakataua	Dakataud Lake,Lake Dakataua	-5.02321	150.09266	H	LK	PG		17				0		101	Pacific/Port_Moresby	2015-04-06
+2098848	Buluwara	Buluwara		-5.2737	149.95595	P	PPL	PG		17				0		53	Pacific/Port_Moresby	2015-04-06
+2098858	Bulumuri	Bulumuri	Bulu-Murli,Bulumuri	-5.0172	150.13856	P	PPL	PG	PG	17				0		222	Pacific/Port_Moresby	2015-04-06
+2098861	Buluma	Buluma	Baluma,Buluma	-5.52885	150.31219	P	PPL	PG		17				0		220	Pacific/Port_Moresby	2015-04-06
+2098862	Bulu Daba	Bulu Daba	Bulu Daba,Bulu Doba,Buludava	-5.06867	150.02114	P	PPL	PG		17				0		148	Pacific/Port_Moresby	2015-04-06
+2098976	Bubu	Bubu		-5.32233	151.00704	P	PPL	PG		17				0		267	Pacific/Port_Moresby	2015-04-06
+2099222	Bola	Bola		-5.32447	150.04861	P	PPL	PG		17				0		11	Pacific/Port_Moresby	2015-04-06
+2099370	Bitokara	Bitokara	Bitokara,Bitokara Mission	-5.29669	150.02402	P	PPL	PG	PG	17				0		158	Pacific/Port_Moresby	2015-04-06
+2099652	Benaule Number 2	Benaule Number 2		-5.48793	150.36245	P	PPLX	PG		17				0		185	Pacific/Port_Moresby	2015-04-06
+2099653	Benaule	Benaule		-5.50604	150.33876	P	PPL	PG		17				0		180	Pacific/Port_Moresby	2015-04-06
+2099906	Bangulangula Island	Bangulangula Island		-5.47793	150.86226	T	ISL	PG		17				0		-9999	Pacific/Port_Moresby	2015-04-06
+2099964	Bamba	Bamba		-5.30656	150.00754	P	PPL	PG		17				0		271	Pacific/Port_Moresby	2015-04-06
+2101059	Ala River	Ala River		-5.48258	150.84286	H	WTRC	PG		17				0		6	Pacific/Port_Moresby	2015-04-06
+7648670	Bialla	Bialla		-5.32378	151.02656	P	PPL	PG		17				0		273	Pacific/Port_Moresby	2015-04-06
+10177184	Malalia Mission	Malalia Mission		-5.45486	150.52381	P	PPL	PG						0		271	Pacific/Port_Moresby	2015-04-06
+10177185	Bialla Airport	Bialla Airport	BAA,BIA	-5.33062	151.00798	S	AIRP	PG						0		269	Pacific/Port_Moresby	2015-04-06
+10177186	Kualakesi	Kualakesi		-5.52825	150.3164	P	PPL	PG						0		220	Pacific/Port_Moresby	2015-04-06
+10177187	Dagi River	Dagi River		-5.54983	150.21954	H	WTRC	PG						0		176	Pacific/Port_Moresby	2015-04-06
+10177311	Linden Suites 1 Bedroom	Linden Suites 1 Bedroom		14.58142	121.06025	S	HTL	PH		NCR				0	0	27	Asia/Manila	2015-04-06
+10177312	Linden Suites 2 Bedroom	Linden Suites 2 Bedroom		14.58142	121.06025	S	HTL	PH		NCR				0	0	27	Asia/Manila	2015-04-06
+10177313	Linden Suites 3 Bedroom	Linden Suites 3 Bedroom		14.58142	121.06025	S	HTL	PH		NCR				0	0	27	Asia/Manila	2015-04-06
+7530968	Legnica	Legnica	Legnica County,Powiat legnicki	51.20473	16.15834	A	ADM2	PL		72	0262			0		109	Europe/Warsaw	2015-04-06
+7530969	Grudziądz	Grudziadz	Grudziadz County,Grudziądz County,Powiat grudziadzki,Powiat grudziądzki	53.47246	18.77849	A	ADM2	PL		73	0462			0		29	Europe/Warsaw	2015-04-06
+10177183	Lira	Lira	Pensjonat LIRA	49.42315	20.95629	S	HTL	PL		77	1210	121007		0	600	627	Europe/Warsaw	2015-04-06
+10177243	Veliki	Veliki		45.25835	19.84618	S	HTL	RS						0		87	Europe/Belgrade	2015-04-06
+10177310	Azimut Tulskaya Superior-Room Only	Azimut Tulskaya Superior-Room Only		55.70055	37.62161	S	HTL	RU		47				0	0	120	Europe/Moscow	2015-04-06
+10177268	Shangri-La Rasa Sentosa Pan Sea View	Shangri-La Rasa Sentosa Pan Sea View		1.25504	103.8111	S	HTL	SG						0		1	Asia/Singapore	2015-04-06
+10177332	Bayview Family	Bayview Family		1.29806	103.85039	S	HTL	SG						0	0	1	Asia/Singapore	2015-04-06
+10177228	Anantara Chiang Mai Resort & Spa Ex The Chedi Chiang Mai	Anantara Chiang Mai Resort & Spa Ex The Chedi Chiang Mai		18.78249	99.00349	S	HTL	TH		02				0		298	Asia/Bangkok	2015-04-06
+10177248	Rajtaevee	Rajtaevee		13.74902	100.56331	P	PPLX	TH		40				0		2	Asia/Bangkok	2015-04-06
+10177272	Samui Laguna Resort Standard Bungalow	Samui Laguna Resort Standard Bungalow		9.4683	100.04787	S	HTL	TH		64				0		18	Asia/Bangkok	2015-04-06
+10177282	Bayview Resort Grand Deluxe Villa	Bayview Resort Grand Deluxe Villa		7.72987	98.78048	S	HTL	TH						0	0	1	Asia/Bangkok	2015-04-06
+10177297	Patong Cottage Resort	Patong Cottage Resort		7.88685	98.30659	S	HTL	TH		62				0	0	139	Asia/Bangkok	2015-04-06
+10177305	Arayaburi Resort Araya Grand Deluxe	Arayaburi Resort Araya Grand Deluxe		7.72788	98.7897	S	HTL	TH						0	0	9	Asia/Bangkok	2015-04-06
+10177316	Novotel Phuket Kamala Beach Sup Ocn Vw	Novotel Phuket Kamala Beach Sup Ocn Vw		7.96686	98.28037	S	HTL	TH		62				0	0	24	Asia/Bangkok	2015-04-06
+10177317	D Varee Mai Khao Beach Dlx Pool Access	D Varee Mai Khao Beach Dlx Pool Access		8.14801	98.29918	S	HTL	TH		62				0	0	-9999	Asia/Bangkok	2015-04-06
+10177325	Outrigger Deluxe Bungalow	Outrigger Deluxe Bungalow		7.76118	98.77244	S	HTL	TH						0	0	1	Asia/Bangkok	2015-04-06
+10177327	Sea Sun Sand Resort Deluxe Sea View	Sea Sun Sand Resort Deluxe Sea View		7.90611	98.2987	S	HTL	TH		62				0	0	164	Asia/Bangkok	2015-04-06
+10177329	Sentido Graceland Khao Lak Dlx Pool Vw	Sentido Graceland Khao Lak Dlx Pool Vw		8.68777	98.24863	S	HTL	TH		61				0	0	10	Asia/Bangkok	2015-04-06
+10177331	Scent Beach Front Suite	Scent Beach Front Suite		9.55724	100.05348	S	HTL	TH		64				0	0	8	Asia/Bangkok	2015-04-06
+10177334	Holiday Inn Ao Nang Beach Prem Grdn Vw	Holiday Inn Ao Nang Beach Prem Grdn Vw		8.03971	98.81504	S	HTL	TH		63				0	0	-9999	Asia/Bangkok	2015-04-06
+10177336	W Bangkok Spectacular	W Bangkok Spectacular		13.72176	100.52888	S	HTL	TH		40				0	0	2	Asia/Bangkok	2015-04-06
+10177337	Patong Bay Garden Special Offer	Patong Bay Garden Special Offer		7.89492	98.29564	S	HTL	TH		62				0	0	101	Asia/Bangkok	2015-04-06
+10177338	Thara Patong Beach Offer	Thara Patong Beach Offer		7.89707	98.29801	S	HTL	TH		62				0	0	101	Asia/Bangkok	2015-04-06
+10177339	Banyan Tree Phuket Pool Villa	Banyan Tree Phuket Pool Villa		8.01171	98.29532	S	HTL	TH		62				0	0	2	Asia/Bangkok	2015-04-06
+10177340	Lamai Wanta Beach Resort Special Offer	Lamai Wanta Beach Resort Special Offer		9.46274	100.04415	S	HTL	TH		64				0	0	1	Asia/Bangkok	2015-04-06
+10177341	Melati Beach Resort Pool Villa Suites	Melati Beach Resort Pool Villa Suites		9.58937	100.0698	S	HTL	TH						0	0	-9999	Asia/Bangkok	2015-04-06
+10177342	Malisa Villa Suites Grand Pool Villa	Malisa Villa Suites Grand Pool Villa		7.81742	98.30091	S	HTL	TH		62				0	0	131	Asia/Bangkok	2015-04-06
+10177348	Montien Deluxe Family	Montien Deluxe Family		13.73042	100.53104	S	HTL	TH		40				0	0	2	Asia/Bangkok	2015-04-06
+10177350	Bhundhari Chaweng Beach Seaside Bnglw	Bhundhari Chaweng Beach Seaside Bnglw		9.51557	100.05585	S	HTL	TH		64				0	0	11	Asia/Bangkok	2015-04-06
+10177352	Chatrium Residence Sathon Dlx 1 BrRo	Chatrium Residence Sathon Dlx 1 BrRo		13.70224	100.53743	S	HTL	TH		40				0	0	2	Asia/Bangkok	2015-04-06
+10177354	Siam Park City	Siam Park City		13.80765	100.69477	P	PPLX	TH		40				0		2	Asia/Bangkok	2015-04-06
+10177406	Sugar Palm Grand HillsideGrnd Jacz Dlx	Sugar Palm Grand HillsideGrnd Jacz Dlx		7.8138	98.30103	S	HTL	TH		62				0	0	115	Asia/Bangkok	2015-04-06
+10177407	Andaman Embrace Andaman Deluxe Ro	Andaman Embrace Andaman Deluxe Ro		7.89905	98.29861	S	HTL	TH		62				0	0	101	Asia/Bangkok	2015-04-06
+10177408	Andaman Embrace Balcony Deluxe Ro	Andaman Embrace Balcony Deluxe Ro		7.89905	98.29861	S	HTL	TH		62				0	0	101	Asia/Bangkok	2015-04-06
+10177409	Panwa Beach Resort Ro	Panwa Beach Resort Ro		7.81764	98.3851	S	HTL	TH						0	0	1	Asia/Bangkok	2015-04-06
+10177410	Bhundhari Min 5 Night Stay	Bhundhari Min 5 Night Stay		9.55446	100.07828	S	HTL	TH		64				0	0	2	Asia/Bangkok	2015-04-06
+10177414	Sheraton Grande SukhumvitGrande Suites	Sheraton Grande SukhumvitGrande Suites		13.73731	100.55939	S	HTL	TH		40				0	0	2	Asia/Bangkok	2015-04-07
+296950	Yenipazar	Yenipazar	Yenipazar	37.82332	28.19573	P	PPLA2	TR		09				6513		156	Europe/Istanbul	2015-04-06
+297983	Yağdere	Yagdere		37.90976	28.20851	P	PPL	TR		09				0		276	Europe/Istanbul	2015-04-06
+298176	Uzunlar	Uzunlar		37.94939	28.20295	P	PPL	TR		09				0		710	Europe/Istanbul	2015-04-06
+300195	Sultanhisar	Sultanhisar	Sultanhisar	37.88989	28.15436	P	PPLA2	TR		09				6259		110	Europe/Istanbul	2015-04-06
+302064	Salavatlı	Salavatli	Salavatli,Salavatlı	37.89123	28.10333	P	PPLA3	TR		09	8632398			0		155	Europe/Istanbul	2015-04-06
+304908	Malgaç Çayı	Malgac Cayi	Malkac Cayi,Malkaç Çayı,Malkoc Cayi,Malkoç Çayı	37.89066	28.16703	H	STM	TR		09				0		95	Europe/Istanbul	2015-04-06
+304913	Malgaçmustafa	Malgacmustafa	Malgacmustafa,Malgaçmustafa,Malkacmustafa,Malkaçmustafa	37.94545	28.16697	P	PPL	TR	TR	09				0		283	Europe/Istanbul	2015-04-06
+306149	Koyunlar	Koyunlar	Koyuncular,Koyunlar	37.75504	28.22592	P	PPL	TR	TR	09				0		880	Europe/Istanbul	2015-04-06
+311214	İsabeyli	Isabeyli	Isabeyli,İsabeyli	37.90147	28.26475	P	PPLA3	TR		09	8632399			4649		124	Europe/Istanbul	2015-04-06
+311408	İncealan Deresi	Incealan Deresi		37.93707	28.21067	H	STMI	TR		09				0		307	Europe/Istanbul	2015-04-06
+311409	İncealan	Incealan		37.95988	28.21252	P	PPL	TR		09				0		624	Europe/Istanbul	2015-04-06
+312724	Hamzebali	Hamzebali	Hamzabali,Hamzabalı,Hamzebali	37.80207	28.1206	P	PPL	TR		09				0		55	Europe/Istanbul	2015-04-06
+313290	Güvendik	Guvendik		37.92434	28.16998	P	PPL	TR		09				0		173	Europe/Istanbul	2015-04-06
+315250	Eskihisar	Eskihisar		37.90341	28.1313	P	PPL	TR		09				0		271	Europe/Istanbul	2015-04-06
+316083	Dutağaç	Dutagac		37.6708	28.52121	P	PPL	TR		09				0		703	Europe/Istanbul	2015-04-06
+316312	Donduran	Donduran		37.83399	28.24257	P	PPL	TR		09				0		73	Europe/Istanbul	2015-04-06
+316599	Direcik	Direcik		37.83752	28.27899	P	PPL	TR		09				0		76	Europe/Istanbul	2015-04-06
+316985	Dereköy	Derekoy		37.80484	28.14979	P	PPL	TR		09				0		69	Europe/Istanbul	2015-04-06
+317198	Demirhan	Demirhan		37.97345	28.22396	P	PPL	TR		09				0		698	Europe/Istanbul	2015-04-06
+317873	Çulhan	Culhan		37.81002	28.15574	P	PPL	TR		09				0		56	Europe/Istanbul	2015-04-06
+318229	Çobanlar	Cobanlar		37.97721	28.23639	P	PPL	TR		09				0		839	Europe/Istanbul	2015-04-06
+318372	Çine	Cine	Cine,Hanakpinar,Hanakpınar,Çine	37.61266	28.05912	P	PPLA2	TR		09				21327		94	Europe/Istanbul	2015-04-06
+323013	Atça Tren İstasyonu	Atca Tren Istasyonu		37.88334	28.21237	S	RSTN	TR		09	8632398	8693560		0	84	116	Europe/Istanbul	2015-04-06
+323014	Atça	Atca		37.88859	28.21528	P	PPLA3	TR		09	8632398			7602	84	116	Europe/Istanbul	2015-04-06
+324012	Alioğullar	Aliogullar	Aliogullar,Aliogullari,Alioğullar,Alioğulları	37.7587	28.24701	P	PPL	TR	TR	09				0		751	Europe/Istanbul	2015-04-06
+324111	Alhan	Alhan		37.80965	28.16608	P	PPL	TR		09				0		63	Europe/Istanbul	2015-04-06
+324221	Alamut	Alamut		37.8085	28.29227	P	PPL	TR		09				0		108	Europe/Istanbul	2015-04-06
+324829	Akçay	Akcay		37.84207	28.2614	H	STM	TR		00				0		77	Europe/Istanbul	2015-04-06
+8693560	Atça Bucağı	Atca Bucagi	Atca Bucagi,Atça Bucağı	37.88876	28.21518	A	ADM3	TR		09	8632398	8693560		0		116	Europe/Istanbul	2015-04-06
+8693564	Umurlu Bucağı	Umurlu Bucagi	Umurlu Bucagi,Umurlu Bucağı	37.85059	27.95877	A	ADM3	TR		09		8693564		0		72	Europe/Istanbul	2015-04-06
+9889078	Bahçelievler	Bahcelievler	Bahcelievler,Bahçelievler	38.40242	27.11951	P	PPLX	TR		35	9543231			0		113	Europe/Istanbul	2015-04-06
+10177226	Tempo Residence Mecidiyekoy	Tempo Residence Mecidiyekoy		41.06966	28.99298	S	HTL	TR		34				0		104	Europe/Istanbul	2015-04-06
+10177355	Nysa Otel	Nysa Otel		37.89504	28.15588	S	HTL	TR		09	8632398			0		221	Europe/Istanbul	2015-04-06
+10177356	Arif'in Gölü	Arif'in Goelue		37.88005	28.24223	H	LK	TR		09	8632398	8693560		0		72	Europe/Istanbul	2015-04-06
+10177357	Adnan Menderes Üniversitesi Atça Meslek Yüksekokulu	Adnan Menderes UEniversitesi Atca Meslek Yueksekokulu		37.88394	28.2076	S	UNIV	TR		09	8632398	8693560		0		96	Europe/Istanbul	2015-04-06
+10177358	Atça Şehir Stadyumu	Atca Sehir Stadyumu		37.89221	28.20661	S	STDM	TR		09	8632398	8693560		0		145	Europe/Istanbul	2015-04-06
+10177359	Atça Anadolu Lisesi	Atca Anadolu Lisesi		37.89421	28.21149	S	SCH	TR		09	8632398	8693560		0		115	Europe/Istanbul	2015-04-06
+10177360	Menderes Hava Meydan Kıta Komutanlığı	Menderes Hava Meydan Kita Komutanligi		38.27508	27.16586	S	AIRB	TR		35				0		148	Europe/Istanbul	2015-04-06
+10177361	Atça Sanayi Sitesi	Atca Sanayi Sitesi		37.88416	28.20997	L	INDS	TR		09	8632398	8693560		0		116	Europe/Istanbul	2015-04-06
+10177363	Çomaklı Mezarlığı	Comakli Mezarligi		37.89518	28.22553	S	CMTY	TR		09	8632398	8693560		0		105	Europe/Istanbul	2015-04-06
+10177364	Nazilli Tren İstasyonu	Nazilli Tren Istasyonu	Nazilli Train Station	37.91421	28.32701	S	RSTN	TR		09				0		93	Europe/Jersey	2015-04-06
+10177365	Nazilli Otogarı	Nazilli Otogari	Nazilli Bus Terminal,Nazilli Garaj	37.9106	28.3227	S	TRANT	TR		09	8632399			0		94	Europe/Istanbul	2015-04-06
+10177368	Ptt	Ptt		37.88941	28.21512	S	PO	TR		09	8632398	8693560		0		116	Europe/Istanbul	2015-04-06
+10177369	TÜPRAG Kışladağ Altın Madeni	TUEPRAG Kisladag Altin Madeni	Kisladag Gold Mine	38.48727	29.15405	S	MNAU	TR		64				0		1013	Europe/Istanbul	2015-04-06
+10177370	Forum Aydın	Forum Aydin		37.84627	27.86122	S	MALL	TR		09	9564466			0		58	Europe/Istanbul	2015-04-06
+10177371	Aydın Arkeoloji Müzesi	Aydin Arkeoloji Muezesi		37.84699	27.86258	S	MUS	TR		09	9564466			0		58	Europe/Istanbul	2015-04-06
+10177319	Hotel B Business Twin	Hotel B Business Twin		25.04794	121.5447	S	HTL	TW		04	TPE			0	0	5	Asia/Taipei	2015-04-06
+10177205	Gold Spike Hotel & Casino	Gold Spike Hotel & Casino		36.17099	-115.14049	S	HTL	US		NV	003			0		609	America/Los_Angeles	2015-04-06
+10177206	Sanibel Harbour Marriott Resor	Sanibel Harbour Marriott Resor		26.4862	-82.00972	S	HTL	US		FL	071			0		-9999	America/New_York	2015-04-06
+10177224	Holiday Inn Arlington Ne Rangers Ballpark	Holiday Inn Arlington Ne Rangers Ballpark		32.76018	-97.093	S	HTL	US		TX	439			0		183	America/Chicago	2015-04-06
+10177230	Howard Johnson Plaza Hotel Anaheim Resort	Howard Johnson Plaza Hotel Anaheim Resort		33.813	-117.9152	S	HTL	US		CA	059			0		32	America/Los_Angeles	2015-04-06
+10177232	America's Best Value Inn Hillsboro	America's Best Value Inn Hillsboro		32.01211	-97.0957	S	HTL	US		TX	217			0		200	America/Chicago	2015-04-06
+10177236	Courtyard Savannah DowntownHistoric District	Courtyard Savannah DowntownHistoric District		32.0755	-81.09849	S	HTL	US		GA	051			0		12	America/New_York	2015-04-06
+10177283	Courtyard King Kamehamehas Kona Std	Courtyard King Kamehamehas Kona Std		19.64077	-155.99765	S	HTL	US		HI				0	0	-9999	Pacific/Honolulu	2015-04-06
+10177322	Olympic Valley	Olympic Valley		39.19718	-120.2348	P	PPL	US		CA	061			0		1950	America/Los_Angeles	2015-04-06
+10177330	Scottsdale Cottonwoods Trad Casita	Scottsdale Cottonwoods Trad Casita		33.52745	-111.92651	S	HTL	US		AZ	013			0	0	402	America/Phoenix	2015-04-06
+10177346	Makena Beach Resort Mikspr Ocean View	Makena Beach Resort Mikspr Ocean View		20.64636	-156.44112	S	HTL	US		HI				0	0	47	Pacific/Honolulu	2015-04-06
+10177378	Super 8 Homewood Birmingham Area	Super 8 Homewood Birmingham Area		33.4668	-86.8284	S	HTL	US		AL	073			0	0	249	America/Chicago	2015-04-06
+10177383	Hilton Garden Inn NapervilleWarrenville	Hilton Garden Inn NapervilleWarrenville		41.8013	-88.1747	S	HTL	US		IL	043			0	0	213	America/Chicago	2015-04-06
+10177384	Homewood Suites By Hilton Atlantic CityEgg Harbor Township	Homewood Suites By Hilton Atlantic CityEgg Harbor Township		39.43108	-74.60837	S	HTL	US		NJ	001			0	0	18	America/New_York	2015-04-06
+10177386	Homewood Suites By Hilton® Springfield Va	Homewood Suites By Hilton Springfield Va		38.77982	-77.18661	S	HTL	US		VA	059			0	0	73	America/New_York	2015-04-06
+10177388	Home2 Suites By Hilton Nashville Vanderbilt Tn	Home2 Suites By Hilton Nashville Vanderbilt Tn		36.15132	-86.79446	S	HTL	US		TN	037			0	0	153	America/Chicago	2015-04-06
+10177392	Ames Hotel A Morgans Hotel	Ames Hotel A Morgans Hotel		42.3588	-71.05805	S	HTL	US		MA	025			0	0	4	America/New_York	2015-04-06
+10177394	Walker Sisters road	Walker Sisters road		35.69595	-83.64523	R	RD	US		TN	155			0		578	America/New_York	2015-04-06
+10177396	Doubletree By Hilton Hotel Houston Intercontinental Airport	Doubletree By Hilton Hotel Houston Intercontinental Airport		29.9471	-95.3328	S	HTL	US		TX	201			0	0	24	America/Chicago	2015-04-06
+10177402	Hazel Creek	Hazel Creek		35.55816	-83.57848	L	AREA	US		NC	173			0		1335	America/New_York	2015-04-06
+10177403	Aqua PalmsPreferred Partial Ocean View	Aqua PalmsPreferred Partial Ocean View		21.28501	-157.83658	S	HTL	US		HI				0	0	9	Pacific/Honolulu	2015-04-06
+10177202	Whalesong Hotel & Hydro	Whalesong Hotel & Hydro		-34.05017	23.3579	S	HTL	ZA		11	DC4	WC047		0		153	Africa/Johannesburg	2015-04-06
+10177196	Ruissalo Spa	Ruissalo Spa		60.42475	0.10332	S	HTL							0		-9999		2015-04-06
+10177244	Kyriad Paris Sud Porte D Ivry	Kyriad Paris Sud Porte D Ivry		2.37593	48.81979	S	HTL							0		-9999		2015-04-06
+10177303	Reikartz Dnipropetrovsk	Reikartz Dnipropetrovsk		35.04149	35.04149	S	HTL							0	0	-9999		2015-04-06
+10177399	The Dana Hotel On Mission Bay	The Dana Hotel On Mission Bay		0.76549	-117.2366	S	HTL							0	0	-9999		2015-04-06

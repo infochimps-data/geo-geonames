@@ -1,0 +1,25 @@
+10644028	323014	post	09650				
+10644021	2097514		Ewasse				
+6925388	2486177	fr	N’Gaous	1			
+10644038	2486177	ar	نقاوس	1			
+10644029	2502625	fr	Boumagueur	1			
+10644030	2502625	ar	بــومقر	1			
+10644025	3176959	hu	Firenze				
+6910479	7626844	en	Bonaire, Sint Eustatius, and Saba		1		
+10644024	8582048	link	http://en.wikipedia.org/wiki/Huejutla_de_Reyes				
+10644018	10177183	pl	Pensjonat LIRA	1			
+10644019	10177183	link	http://www.pensjonatlira.eu/				
+10644020	10177183	post	33-380				
+10644022	10177185	faac	BIA				
+10644023	10177185	iata	BAA				
+10644026	10177355	link	http://www.nysahotel.com				
+10644027	10177357	link	http://www.akademik.adu.edu.tr/myo/atca/				
+10644031	10177364	en	Nazilli Train Station				
+10644032	10177365	en	Nazilli Bus Terminal				
+10644033	10177365		Nazilli Garaj				
+10644034	10177366		Düngershof				1
+10644037	10177367	ar	بــومقر	1			
+10644039	10177367	link	https://en.wikipedia.org/wiki/Boumagueur				
+10644035	10177369	en	Kisladag Gold Mine				
+10644040	10177376	post	13030-405				
+10644041	10177376	link	http://www.promtec.com.br				

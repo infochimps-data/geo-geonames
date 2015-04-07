@@ -1,0 +1,670 @@
+A.ADM1	първостепенна административна единица 	a primary administrative division of a country, such as a state in the United States
+A.ADM1H	historical first-order administrative division	a former first-order administrative division
+A.ADM2	второстепенна административна единица 	a subdivision of a first-order administrative division
+A.ADM2H	historical second-order administrative division	a former second-order administrative division
+A.ADM3	третостепенна административна единица 	a subdivision of a second-order administrative division
+A.ADM3H	historical third-order administrative division	a former third-order administrative division
+A.ADM4	четвъртостепенна административна единица 	a subdivision of a third-order administrative division
+A.ADM4H	historical fourth-order administrative division	a former fourth-order administrative division
+A.ADM5	fifth-order administrative division	a subdivision of a fourth-order administrative division
+A.ADM5H	historical fifth-order administrative division	a former fifth-order administrative division
+A.ADMD	административно делене 	an administrative division of a country, undifferentiated as to administrative level
+A.ADMDH	historical administrative division 	a former administrative division of a political entity, undifferentiated as to administrative level
+A.LTER	територия под аренда  	a tract of land leased to another country, usually for military installations
+A.PCL	политическо тяло	
+A.PCLD	зависимо политическо тяло	
+A.PCLF	свободно асоциирана държава	
+A.PCLH	historical political entity	a former political entity
+A.PCLI	независимо политическо образувание	
+A.PCLIX	част от независимо политическо образувание	
+A.PCLS	полу-независимо политическо образувание	
+A.PRSH	енория 	an ecclesiastical district
+A.TERR	територия	
+A.ZN	зона	
+A.ZNB	буферна зона 	a zone recognized as a buffer between two nations in which military presence is minimal or absent
+H.AIRS	летище за хидроплани 	a place on a waterbody where floatplanes land and take off
+H.ANCH	пристанище 	an area where vessels may anchor
+H.BAY	залив 	a coastal indentation between two capes or headlands, larger than a cove but smaller than a gulf
+H.BAYS	заливи 	coastal indentations between two capes or headlands, larger than a cove but smaller than a gulf
+H.BGHT	ивица(и) 	an open body of water forming a slight recession in a coastline
+H.BNK	бряг(ове) 	an elevation, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for most surface navigation
+H.BNKR	бряг изложен на течение 	a sloping margin of a stream channel which normally confines the stream to its channel on land
+H.BNKX	част от бряг	
+H.BOG	блато(а) 	a wetland characterized by peat forming sphagnum moss, sedge, and other acid-water plants
+H.CAPG	ледена покривка 	a dome-shaped mass of glacial ice covering an area of mountain summits or other high lands; smaller than an ice sheet
+H.CHN	канал 	the deepest part of a stream, bay, lagoon, or strait, through which the main current flows
+H.CHNL	езерен канал(и) 	that part of a lake having water deep enough for navigation between islands, shoals, etc.
+H.CHNM	морски канал 	that part of a body of water deep enough for navigation through an area otherwise not suitable
+H.CHNN	навигационен канал 	a buoyed channel of sufficient depth for the safe navigation of vessels
+H.CNFL	устие 	a place where two or more streams or intermittent streams flow together
+H.CNL	канал 	an artificial watercourse
+H.CNLA	аквадукт 	a conduit used to carry water
+H.CNLB	канална връзка 	a conspicuously curved or bent section of a canal
+H.CNLD	отводнителен канал 	an artificial waterway carrying water away from a wetland or from drainage ditches
+H.CNLI	напоителен канал 	a canal which serves as a main conduit for irrigation water
+H.CNLN	навигационен канал(и) 	a watercourse constructed for navigation of vessels
+H.CNLQ	изоставен канал	
+H.CNLSB	подземна напоителна система 	a gently inclined underground tunnel bringing water for irrigation from aquifers
+H.CNLX	част от канал	
+H.COVE	заливче 	a small coastal indentation, smaller than a bay
+H.CRKT	приливно заливче 	a meandering channel in a coastal wetland subject to bi-directional tidal currents
+H.CRNT	течение 	a horizontal flow of water in a given direction with uniform velocity
+H.CUTF	скъсяване 	a channel formed as a result of a stream cutting through a meander neck
+H.DCK	пристанище(а) 	a waterway between two piers, or cut into the land for the berthing of ships
+H.DCKB	басейнов док 	a part of a harbor where ships dock
+H.DOMG	ледено покритие 	a comparatively elevated area on an icecap
+H.DPRG	заледена падина 	a comparatively depressed area on an icecap
+H.DTCH	канавка 	a small artificial watercourse dug for draining or irrigating the land
+H.DTCHD	отводнителна канавка 	a ditch which serves to drain the land
+H.DTCHI	напоителна канавка 	a ditch which serves to distribute irrigation water
+H.DTCHM	заустване на канавка 	an area where a drainage ditch enters a lagoon, lake or bay
+H.ESTY	заливно устие 	a funnel-shaped stream mouth or embayment where fresh water mixes with sea water under tidal influences
+H.FISH	риболовен район 	a fishing ground, bank or area where fishermen go to catch fish
+H.FJD	фиорд 	a long, narrow, steep-walled, deep-water arm of the sea at high latitudes, usually along mountainous coasts
+H.FJDS	фиорди 	long, narrow, steep-walled, deep-water arms of the sea at high latitudes, usually along mountainous coasts
+H.FLLS	водопад(и) 	a perpendicular or very steep descent of the water of a stream
+H.FLLSX	част от водопад(и)	
+H.FLTM	тинесто мочурище(а) 	a relatively level area of mud either between high and low tide lines, or subject to flooding
+H.FLTT	заливно мочурище(а) 	a large flat area of mud or sand attached to the shore and alternately covered and uncovered by the tide
+H.GLCR	ледник 	a mass of ice, usually at high latitudes or high elevations, with sufficient thickness to flow away from the source area in lobes, tongues, or masses
+H.GULF	залив 	a large recess in the coastline, larger than a bay
+H.GYSR	гейзер 	a type of hot spring with intermittent eruptions of jets of hot water and steam
+H.HBR	пристанище(а) 	a haven or space of deep water so sheltered by the adjacent land as to afford a safe anchorage for ships
+H.HBRX	част от пристанище	
+H.INLT	проток 	a narrow waterway extending into the land, or connecting a bay or lagoon with a larger body of water
+H.INLTQ	бивш проток 	an inlet which has been filled in, or blocked by deposits
+H.LBED	легло на езеро(а) 	a dried up or drained area of a former lake
+H.LGN	лагуна 	a shallow coastal waterbody, completely or partly separated from a larger body of water by a barrier island, coral reef or other depositional feature
+H.LGNS	лагуни 	shallow coastal waterbodies, completely or partly separated from a larger body of water by a barrier island, coral reef or other depositional feature
+H.LGNX	част от кагуна	
+H.LK	езеро 	a large inland body of standing water
+H.LKC	вулканично езеро 	a lake in a crater or caldera
+H.LKI	пресъхващо езеро	
+H.LKN	солено езеро 	an inland body of salt water with no outlet
+H.LKNI	пресъхващо солено езеро	
+H.LKO	корекция 	a crescent-shaped lake commonly found adjacent to meandering streams
+H.LKOI	пресъхващи корекции	
+H.LKS	езера 	large inland bodies of standing water
+H.LKSB	подземни езера 	a standing body of water in a cave
+H.LKSC	вулканични езера 	lakes in a crater or caldera
+H.LKSI	пресъхващи езера	
+H.LKSN	солени езера 	inland bodies of salt water with no outlet
+H.LKSNI	пресъхващи солени езера	
+H.LKX	част от езеро	
+H.MFGN	солено испаряващо се езерце 	diked salt ponds used in the production of solar evaporated salt
+H.MGV	мангрови блата 	a tropical tidal mud flat characterized by mangrove vegetation
+H.MOOR	тресавище(а) 	an area of open ground overlaid with wet peaty soils
+H.MRSH	мочурище(а) 	a wetland dominated by grass-like vegetation
+H.MRSHN	солени мочурища 	a flat area, subject to periodic salt water inundation, dominated by grassy salt-tolerant plants
+H.NRWS	тясна част на протоци 	a navigable narrow part of a bay, strait, river, etc.
+H.OCN	океан 	one of the major divisions of the vast expanse of salt water covering part of the earth
+H.OVF	бързеи 	an area of breaking waves caused by the meeting of currents or by waves moving against the current
+H.PND	поток 	a small standing waterbody
+H.PNDI	пресъхващ поток	
+H.PNDN	солено езерце 	a small standing body of salt water often in a marsh or swamp, usually along a seacoast
+H.PNDNI	пресъхващо солено езерце(а)	
+H.PNDS	езерца 	small standing waterbodies
+H.PNDSF	рибарник 	ponds or enclosures in which fish are kept or raised
+H.PNDSI	пресъхващи езерца	
+H.PNDSN	солени езерца 	small standing bodies of salt water often in a marsh or swamp, usually along a seacoast
+H.POOL	вир(ове) 	a small and comparatively still, deep part of a larger body of water such as a stream or harbor; or a small body of standing water
+H.POOLI	пресъхващи вирове	
+H.RCH	част на река между два завоя/на канал между два шлюза 	a straight section of a navigable stream or channel between two bends
+H.RDGG	заледена част на река между два завоя/на канал между два шлюза 	a linear elevation on an icecap
+H.RDST	пристанище далеч от брега 	an open anchorage affording less protection than a harbor
+H.RF	риф(ове) 	a surface-navigation hazard composed of consolidated material
+H.RFC	коралов риф(ове) 	a surface-navigation hazard composed of coral
+H.RFX	част от риф	
+H.RPDS	бързеи 	a turbulent section of a stream associated with a steep, irregular stream bed
+H.RSV	водохранилище(а) 	an artificial pond or lake
+H.RSVI	пресъхващи водохранилища	
+H.RSVT	воден ресервуар 	a contained pool or tank of water at, below, or above ground level
+H.RVN	клисура(и) 	a small, narrow, deep, steep-sided stream channel, smaller than a gorge
+H.SBKH	сухо легло на солено езеро(а) 	a salt flat or salt encrusted plain subject to periodic inundation from flooding or high tides
+H.SD	морски ръкав 	a long arm of the sea forming a channel between the mainland and an island or islands; or connecting two larger bodies of water
+H.SEA	море 	a large body of salt water more or less confined by continuous land or chains of islands forming a subdivision of an ocean
+H.SHOL	плитчина(и) 	a surface-navigation hazard composed of unconsolidated material
+H.SILL	врата на шлюз 	the low part of an underwater gap or saddle separating basins, including a similar feature at the mouth of a fjord
+H.SPNG	извор(и) 	a place where ground water flows naturally out of the ground
+H.SPNS	серен извор(и) 	a place where sulphur ground water flows naturally out of the ground
+H.SPNT	горещ извор(и) 	a place where hot ground water flows naturally out of the ground
+H.STM	поток 	a body of running water moving to a lower level in a channel on land
+H.STMA	речен скален остров 	a diverging branch flowing out of a main stream and rejoining it downstream
+H.STMB	завой на поток 	a conspicuously curved or bent segment of a stream
+H.STMC	канализиран поток 	a stream that has been substantially ditched, diked, or straightened
+H.STMD	речен ръкав(и) 	a branch which flows away from the main stream, as in a delta or irrigation canal
+H.STMH	горен бйеф 	the source and upper part of a stream, including the upper drainage basin
+H.STMI	пресъхващ поток	
+H.STMIX	част от пресъхващ пото	
+H.STMM	планински поток(и) 	a place where a stream discharges into a lagoon, lake, or the sea
+H.STMQ	пресъхнали реки 	a former stream or distributary no longer carrying flowing water, but still evident due to lakes, wetland, topographic or vegetation patterns
+H.STMS	потоци 	bodies of running water moving to a lower level in a channel on land
+H.STMSB	изгубващи се реки 	a surface stream that disappears into an underground channel, or dries up in an arid area
+H.STMX	част от поток	
+H.STRT	пролив 	a relatively narrow waterway, usually narrower and less extensive than a sound, connecting two larger bodies of water
+H.SWMP	язовир 	a wetland dominated by tree vegetation
+H.SYSI	напоителен язовир 	a network of ditches and one or more of the following elements: water supply, reservoir, canal, pump, well, drain, etc.
+H.TNLC	канален тунел 	a tunnel through which a canal passes
+H.WAD	сухи речни корита (вади) 	a valley or ravine, bounded by relatively steep banks, which in the rainy season becomes a watercourse; found primarily in North Africa and the Middle East
+H.WADB	извивка на вади 	a conspicuously curved or bent segment of a wadi
+H.WADJ	възел на вади 	a place where two or more wadies join
+H.WADM	гърло на вади 	the lower terminus of a wadi where it widens into an adjoining floodplain, depression, or waterbody
+H.WADS	множество вади 	valleys or ravines, bounded by relatively steep banks, which in the rainy season become watercourses; found primarily in North Africa and the Middle East
+H.WADX	част от вади	
+H.WHRL	водовъртеж 	a turbulent, rotating movement of water in a stream
+H.WLL	кладенец 	a cylindrical hole, pit, or tunnel drilled or dug down to a depth from which water, oil, or gas can be pumped or brought to the surface
+H.WLLQ	изоставен кладенец	
+H.WLLS	кладенци 	cylindrical holes, pits, or tunnels drilled or dug down to a depth from which water, oil, or gas can be pumped or brought to the surface
+H.WTLD	влажни зони 	an area subject to inundation, usually characterized by bog, marsh, or swamp vegetation
+H.WTLDI	пресъхващи влажни зони	
+H.WTRC	речно корито 	a natural, well-defined channel produced by flowing water, or an artificial channel designed to carry flowing water
+H.WTRH	гьол(ове) 	a natural hole, hollow, or small depression that contains water, used by man and animals, especially in arid areas
+L.AGRC	селскостопанска колония 	a tract of land set aside for agricultural settlement
+L.AMUS	amusement park	Amusement Park are theme parks, adventure parks offering entertainment, similar to funfairs but with a fix location
+L.AREA	регион 	a tract of land without homogeneous character or boundaries
+L.BSND	доден басейн 	an area drained by a stream
+L.BSNP	нефтен басейн 	an area underlain by an oil-rich structural basin
+L.BTL	полесражение 	a site of a land battle of historical importance
+L.CLG	сечище 	an area in a forest with trees removed
+L.CMN	обществена собственост 	a park or pasture for community use
+L.CNS	концесионен район 	a lease of land by a government for economic development, e.g., mining, forestry
+L.COLF	въглищно находище 	a region in which coal deposits of possible economic value occur
+L.CONT	континент 	continent: Europe, Africa, Asia, North America, South America, Oceania, Antarctica
+L.CST	крайбрежие 	a zone of variable width straddling the shoreline
+L.CTRB	бизнес център 	a place where a number of businesses are located
+L.DEVH	жилищна зона 	a tract of land on which many houses of similar design are built according to a development plan
+L.FLD	поле(та) 	an open as opposed to wooded area
+L.FLDI	напоявани полета 	a tract of level or terraced land which is irrigated
+L.GASF	залежи от гас 	an area containing a subterranean store of natural gas of economic value
+L.GRAZ	тревиста зона 	an area of grasses and shrubs used for grazing
+L.GVL	едрозърнест пясък 	an area covered with gravel
+L.INDS	индустриална зона 	an area characterized by industrial activity
+L.LAND	арктически територии 	a tract of land in the Arctic
+L.LCTY	местност 	a minor area or place of unspecified or mixed character and indefinite boundaries
+L.MILB	военна база 	a place used by an army or other armed service for storing arms and supplies, and for accommodating and training troops, a base from which operations can be initiated
+L.MNA	полезни ископаеми 	an area of mine sites where minerals and ores are extracted
+L.MVA	военен полигон 	a tract of land where military field exercises are carried out
+L.NVB	военоворска база 	an area used to store supplies, provide barracks for troops and naval personnel, a port for naval vessels, and from which operations are initiated
+L.OAS	оазис(и) 	an area in a desert made productive by the availability of water
+L.OILF	петролно находище 	an area containing a subterranean store of petroleum of economic value
+L.PEAT	торфено находище 	an area where peat is harvested
+L.PRK	парк 	an area, often of forested land, maintained as a place of beauty, or for recreation
+L.PRT	пристанище 	a place provided with terminal and transfer facilities for loading and discharging waterborne cargo or passengers, usually located in a harbor
+L.QCKS	плаващ пясък 	an area where loose sand with water moving through it may become unstable when heavy objects are placed at the surface, causing them to sink
+L.RES	резерват 	a tract of public land reserved for future use or restricted as to use
+L.RESA	аграрен резерват 	a tract of land reserved for agricultural reclamation and/or development
+L.RESF	горски резерват 	a forested area set aside for preservation or controlled use
+L.RESH	ловен резерват 	a tract of land used primarily for hunting
+L.RESN	природен резерват 	an area reserved for the maintenance of a natural habitat
+L.RESP	резерват от палмови дървета 	an area of palm trees where use is controlled
+L.RESV	резерват 	a tract of land set aside for aboriginal, tribal, or native populations
+L.RESW	резерват дива природа 	a tract of public land reserved for the preservation of wildlife
+L.RGN	регион 	an area distinguished by one or more observable physical or cultural characteristics
+L.RGNE	икономически регион 	a region of a country established for economic development or for statistical purposes
+L.RGNH	historical region	a former historic area distinguished by one or more observable physical or cultural characteristics
+L.RGNL	езерен регион 	a tract of land distinguished by numerous lakes
+L.RNGA	артилерийски полигон 	a tract of land used for artillery firing practice
+L.SALT	засолени територии 	a shallow basin or flat where salt accumulates after periodic inundation
+L.SNOW	перманентна снежна покривка 	an area of permanent snow and ice forming the accumulation area of a glacier
+L.TRB	племенна територия 	a tract of land used by nomadic or other tribes
+P.PPL	населено място 	a city, town, village, or other agglomeration of buildings where people live and work
+P.PPLA	център на първостепенна административна единица  	seat of a first-order administrative division (PPLC takes precedence over PPLA)
+P.PPLA2	seat of a second-order administrative division	
+P.PPLA3	seat of a third-order administrative division	
+P.PPLA4	seat of a fourth-order administrative division	
+P.PPLC	столица на политическо образувание	
+P.PPLCH	historical capital of a political entity	a former capital of a political entity
+P.PPLF	farm village	a populated place where the population is largely engaged in agricultural activities
+P.PPLG	столица на правителство на политическо образувание	
+P.PPLH	historical populated place	a populated place that no longer exists
+P.PPLL	населено място 	an area similar to a locality but with a small group of dwellings or other buildings
+P.PPLQ	изоставено населено място	
+P.PPLR	религиозен център 	a populated place whose population is largely engaged in religious occupations
+P.PPLS	населени места 	cities, towns, villages, or other agglomerations of buildings where people live and work
+P.PPLW	разрушено населено място 	a village, town or city destroyed by a natural disaster, or by war
+P.PPLX	част от населено място	
+P.STLMT	израелски поселения	
+R.CSWY	път в блато 	a raised roadway across wet ground or shallow water
+R.OILP	нефтопровод 	a pipeline used for transporting oil
+R.PRMN	стъргало 	a place for public walking, usually along a beach front
+R.PTGE	място за пренос на лодки 	a place where boats, goods, etc., are carried overland between navigable waters
+R.RD	път 	an open way with improved surface for transportation of animals, people and vehicles
+R.RDA	античен път 	the remains of a road used by ancient cultures
+R.RDB	завой на път 	a conspicuously curved or bent section of a road
+R.RDCUT	прекъсване на път 	an excavation cut through a hill or ridge for a road
+R.RDJCT	кръстопът 	a place where two or more roads join
+R.RJCT	жп кръстопът 	a place where two or more railroad tracks join
+R.RR	жп линия 	a permanent twin steel-rail track on which freight and passenger cars move long distances
+R.RRQ	изоставена жп линия	
+R.RTE	Керванен път 	the route taken by caravans
+R.RYD	жп парк 	a system of tracks used for the making up of trains, and switching and storing freight cars
+R.ST	улица 	a paved urban thoroughfare
+R.STKR	път на стада 	a route taken by livestock herds
+R.TNL	тунел 	a subterranean passageway for transportation
+R.TNLN	естествен тунел 	a cave that is open at both ends
+R.TNLRD	пътен тунел 	a tunnel through which a road passes
+R.TNLRR	жп тунел 	a tunnel through which a railroad passes
+R.TNLS	тунели 	subterranean passageways for transportation
+R.TRL	пътека 	a path, track, or route used by pedestrians, animals, or off-road vehicles
+S.ADMF	административна сграда 	a government building
+S.AGRF	селскостопанска сграда 	a building and/or tract of land used for improving agriculture
+S.AIRB	авиобаза 	an area used to store supplies, provide barracks for air force personnel, hangars and runways for aircraft, and from which operations are initiated
+S.AIRF	самолетна писта 	a place on land where aircraft land and take off; no facilities provided for the commercial handling of passengers and cargo
+S.AIRH	летище за хеикоптери 	a place where helicopters land and take off
+S.AIRP	летище 	a place where aircraft regularly land and take off, with runways, navigational aids, and major facilities for the commercial handling of passengers and cargo
+S.AIRQ	изоставено летище	
+S.AMTH	амфитеатър 	an oval or circular structure with rising tiers of seats about a stage or open space
+S.ANS	антични останки 	a place where archeological remains, old structures, or cultural artifacts are located
+S.AQC	aquaculture facility	facility or area for the cultivation of aquatic animals and plants, especially fish, shellfish, and seaweed, in natural or controlled marine or freshwater environments; underwater agriculture
+S.ARCH	арка 	a natural or man-made structure in the form of an arch
+S.ASTR	астрономическа станция 	a point on the earth whose position has been determined by observations of celestial bodies
+S.ASYL	лудница 	a facility where the insane are cared for and protected
+S.ATHF	спортно игрище 	a tract of land used for playing team sports, and athletic track and field events
+S.ATM	automatic teller machine	An unattended electronic machine in a public place, connected to a data system and related equipment and activated by a bank customer to obtain cash withdrawals and other banking services. 
+S.BANK	bank	A business establishment in which money is kept for saving or commercial purposes or is invested, supplied for loans, or exchanged. 
+S.BCN	фар 	a fixed artificial navigation mark
+S.BDG	мост 	a structure erected across an obstacle such as a stream, road, etc., in order to carry roads, railroads, and pedestrians across
+S.BDGQ	останки от мост 	a destroyed or decayed bridge which is no longer functional
+S.BLDG	сграда(и) 	a structure built for permanent use, as a house, factory, etc.
+S.BLDO	office building	commercial building where business and/or services are conducted
+S.BP	граничен пазар 	a fixture marking a point along a boundary
+S.BRKS	бараки 	a building for lodging military personnel
+S.BRKW	вълнолом 	a structure erected to break the force of waves at the entrance to a harbor or port
+S.BSTN	товарна станция 	a facility for baling agricultural products
+S.BTYD	лодкостоянка 	a waterside facility for servicing, repairing, and building small vessels
+S.BUR	пгребална пещера(и) 	a cave used for human burials
+S.BUSTN	bus station	a facility comprising ticket office, platforms, etc. for loading and unloading passengers 
+S.BUSTP	bus stop	a place lacking station facilities
+S.CARN	грамада 	a heap of stones erected as a landmark or for other purposes
+S.CAVE	пещера(и) 	an underground passageway or chamber, or cavity on the side of a cliff
+S.CH	църква 	a building for public Christian worship
+S.CMP	лагер(и) 	a site occupied by tents, huts, or other shelters for temporary use
+S.CMPL	лагер на дървосекачи 	a camp used by loggers
+S.CMPLA	трудов лагер 	a camp used by migrant or temporary laborers
+S.CMPMN	миньорски лагер 	a camp used by miners
+S.CMPO	лагер на нефторъботници 	a camp used by oilfield workers
+S.CMPQ	изоставен лагер	
+S.CMPRF	бежански лагер 	a camp used by refugees
+S.CMTY	гробище 	a burial place or ground
+S.COMC	комуникационен център 	a facility, including buildings, antennae, towers and electronic equipment for receiving and transmitting information
+S.CRRL	заграждение(я) за добитък 	a pen or enclosure for confining or capturing animals
+S.CSNO	казино 	a building used for entertainment, especially gambling
+S.CSTL	замък 	a large fortified building or set of buildings
+S.CSTM	митница 	a building in a port where customs and duties are paid, and where vessels are entered and cleared
+S.CTHSE	съдебна сграда 	a building in which courts of law are held
+S.CTRA	атомен център 	a facility where atomic research is carried out
+S.CTRCM	обществен център 	a facility for community recreation and other activities
+S.CTRF	паркинг 	a place where more than one facility is situated
+S.CTRM	медицински център 	a complex of health care buildings including two or more of the following: hospital, medical school, clinic, pharmacy, doctor's offices, etc.
+S.CTRR	религиозен център 	a facility where more than one religious activity is carried out, e.g., retreat, school, monastery, worship
+S.CTRS	космически център 	a facility for launching, tracking, or controlling satellites and space vehicles
+S.CVNT	женски манастир 	a building where a community of nuns lives in seclusion
+S.DAM	язовирна стена 	a barrier constructed across a stream to impound water
+S.DAMQ	разрушена язовирна стена  	a destroyed or decayed dam which is no longer functional
+S.DAMSB	нископовърхностна стена 	a dam put down to bedrock in a sand river
+S.DARY	мандра 	a facility for the processing, sale and distribution of milk or milk products
+S.DCKD	сух док 	a dock providing support for a vessel, and means for removing the water so that the bottom of the vessel can be exposed
+S.DCKY	корабостроителница 	a facility for servicing, building, or repairing ships
+S.DIKE	дига 	an earth or stone embankment usually constructed for flood or stream control
+S.DIP	diplomatic facility	office, residence, or facility of a foreign government, which may include an embassy, consulate, chancery, office of charge d'affaires, or other diplomatic, economic, military, or cultural mission
+S.DPOF	горивно депо 	an area where fuel is stored
+S.EST	имение(я) 	a large commercialized agricultural landholding with associated buildings and other facilities
+S.ESTO	плантация за маслена палма 	an estate specializing in the cultivation of oil palm trees
+S.ESTR	каучукова плантация 	an estate which specializes in growing and tapping rubber trees
+S.ESTSG	захарна плантация 	an estate that specializes in growing sugar cane
+S.ESTT	чайна плантация 	an estate which specializes in growing tea bushes
+S.ESTX	част от имение	
+S.FCL	съоръжение 	a building or buildings housing a center, institute, foundation, hospital, prison, mission, courthouse, etc.
+S.FNDY	леярна 	a building or works where metal casting is carried out
+S.FRM	ферма 	a tract of land with associated buildings devoted to agriculture
+S.FRMQ	изоставена ферма	
+S.FRMS	ферми 	tracts of land with associated buildings devoted to agriculture
+S.FRMT	чифлик 	the buildings and adjacent service areas of a farm
+S.FT	форт 	a defensive structure or earthworks
+S.FY	ферибот 	a boat or other floating conveyance and terminal facilities regularly used to transport people and vehicles across a waterbody
+S.GATE	бариера 	a controlled access entrance or exit
+S.GDN	градина(и) 	an enclosure for displaying selected plant or animal life
+S.GHAT	ghat	a set of steps leading to a river, which are of religious significance, and at their base is usually a platform for bathing
+S.GHSE	къща за гости 	a house used to provide lodging for paying guests
+S.GOSP	сепаратор на нефт-гас 	a facility for separating gas from oil
+S.GOVL	local government office	a facility housing local governmental offices, usually a city, town, or village hall
+S.GRVE	гроб 	a burial site
+S.HERM	отшелническа килия 	a secluded residence, usually for religious sects
+S.HLT	отбивка за почивка 	a place where caravans stop for rest
+S.HMSD	homestead	a residence, owner's or manager's, on a sheep or cattle station, woolshed, outcamp, or Aboriginal outstation, specific to Australia and New Zealand 
+S.HSE	къща(и) 	a building used as a human habitation
+S.HSEC	селска къща 	a large house, mansion, or chateau, on a large estate
+S.HSP	болница 	a building in which sick or injured, especially those confined to bed, are medically treated
+S.HSPC	клиника 	a medical facility associated with a hospital for outpatients
+S.HSPD	диспансер 	a building where medical or dental aid is dispensed
+S.HSPL	общежитие за прокажени 	an asylum or hospital for lepers
+S.HSTS	историческо място 	a place of historical importance
+S.HTL	хотел 	a building providing lodging and/or meals for the public
+S.HUT	хижа 	a small primitive house
+S.HUTS	хижи 	small primitive houses
+S.INSM	военна инсталация 	a facility for use of and control by armed forces
+S.ITTR	иследователски институт 	a facility where research is carried out
+S.JTY	вълнолом 	a structure built out into the water at a river mouth or harbor entrance to regulate currents and silting
+S.LDNG	стоварище 	a place where boats receive or discharge passengers and freight, but lacking most port facilities
+S.LEPC	колония на прокажени 	a settled area inhabited by lepers in relative isolation
+S.LIBR	library	A place in which information resources such as books are kept for reading, reference, or lending.
+S.LNDF	landfill	a place for trash and garbage disposal in which the waste is buried between layers of earth to build up low-lying land
+S.LOCK	шлюз(ове) 	a basin in a waterway with gates at each end by means of which vessels are passed from one water level to another
+S.LTHSE	фар 	a distinctive structure exhibiting a major navigation light
+S.MALL	мол 	A large, often enclosed shopping complex containing various stores, businesses, and restaurants usually accessible by common passageways.
+S.MAR	яхтостроителница 	a harbor facility for small boats, yachts, etc.
+S.MFG	фабрика 	one or more buildings where goods are manufactured, processed or fabricated
+S.MFGB	пивоварна 	one or more buildings where beer is brewed
+S.MFGC	консервна фабрика 	a building where food items are canned
+S.MFGCU	медна фабрика 	a facility for processing copper ore
+S.MFGLM	варница 	a furnace in which limestone is reduced to lime
+S.MFGM	фабрка за амуниции 	a factory where ammunition is made
+S.MFGPH	фосфатна фабрика 	a facility for producing fertilizer
+S.MFGQ	изоставена фабрика	
+S.MFGSG	захарна рафинерия 	a facility for converting raw sugar into refined sugar
+S.MKT	пазар 	a place where goods are bought and sold at regular intervals
+S.ML	мелница(и) 	a building housing machines for transforming, shaping, finishing, grinding, or extracting products
+S.MLM	миннообогатително предприятие 	a facility for improving the metal content of ore by concentration
+S.MLO	фабрика за зехтин 	a mill where oil is extracted from olives
+S.MLSG	захарна фабрика 	a facility where sugar cane is processed into raw sugar
+S.MLSGQ	бивша захарна фабрика 	a sugar mill no longer used as a sugar mill
+S.MLSW	дъскорезница 	a mill where logs or lumber are sawn to specified shapes and sizes
+S.MLWND	вятърна мелница 	a mill or water pump powered by wind
+S.MLWTR	водна мелница 	a mill powered by running water
+S.MN	мина(и) 	a site where mineral ores are extracted from the ground by excavating surface pits and subterranean passages
+S.MNAU	златна мина(и) 	a mine where gold ore, or alluvial gold is extracted
+S.MNC	въглищна мина(и) 	a mine where coal is extracted
+S.MNCR	хромна мина(и) 	a mine where chrome ore is extracted
+S.MNCU	медна мина(и) 	a mine where copper ore is extracted
+S.MNFE	желязна мина(и) 	a mine where iron ore is extracted
+S.MNMT	монумент 	a commemorative structure or statue
+S.MNN	солна мина(и) 	a mine from which salt is extracted
+S.MNQ	изоставена мина	
+S.MNQR	каменоломна(и) 	a surface mine where building stone or gravel and sand, etc. are extracted
+S.MOLE	дига 	a massive structure of masonry or large stones serving as a pier or breakwater
+S.MSQE	джамия 	a building for public Islamic worship
+S.MSSN	мисия 	a place characterized by dwellings, school, church, hospital and other facilities operated by a religious group for the purpose of providing charitable services and to propagate religion
+S.MSSNQ	изоставена мисия	
+S.MSTY	манастир 	a building and grounds where a community of monks lives in seclusion
+S.MTRO	metro station	metro station (Underground, Tube, or Metro) 
+S.MUS	музей 	a building where objects of permanent interest in one or more of the arts and sciences are preserved and exhibited
+S.NOV	семинария 	a religious house or school where novices are trained
+S.NSY	парник(-ци) 	a place where plants are propagated for transplanting or grafting
+S.OBPT	наблюдателна точка 	a wildlife or scenic observation point
+S.OBS	обсерватория 	a facility equipped for observation of atmospheric or space phenomena
+S.OBSR	радио обсерватория 	a facility equipped with an array of antennae for receiving radio waves from space
+S.OILJ	връзка на нефтопровод 	a section of an oil pipeline where two or more pipes join together
+S.OILQ	изоставен петролен кладенец	
+S.OILR	петролна рафинерия 	a facility for converting crude oil into refined petroleum products
+S.OILT	петролна база 	a tract of land occupied by large, cylindrical, metal tanks in which oil or liquid petrochemicals are stored
+S.OILW	петролен кладенец 	a well from which oil may be pumped
+S.OPRA	опера 	A theater designed chiefly for the performance of operas.
+S.PAL	дворец 	a large stately house, often a royal or presidential residence
+S.PGDA	пагода 	a tower-like storied structure, usually a Buddhist shrine
+S.PIER	пристан 	a structure built out into navigable water on piles providing berthing for ships and recreation
+S.PKLT	място за паркиране 	an area used for parking vehicles
+S.PMPO	нефтена помпена станция 	a facility for pumping oil through a pipeline
+S.PMPW	водна помпена станция 	a facility for pumping water from a major well or through a pipeline
+S.PO	пощенска станция 	a public building in which mail is received, sorted and distributed
+S.PP	полицейски пост 	a building in which police are stationed
+S.PPQ	изоставен полицейски пост	
+S.PRKGT	паркова бариера 	a controlled access to a park
+S.PRKHQ	администрация на парк 	a park administrative facility
+S.PRN	зътвор 	a facility for confining prisoners
+S.PRNJ	исправително училище 	a facility for confining, training, and reforming young law offenders
+S.PRNQ	изоставен затвор	
+S.PS	влектростанция 	a facility for generating electric power
+S.PSH	ВЕЦ 	a building where electricity is generated from water power
+S.PSTB	граничен пост 	a post or station at an international boundary for the regulation of movement of people and goods
+S.PSTC	митнически пост 	a building at an international boundary where customs and duties are paid on goods
+S.PSTP	патрулен пост 	a post from which patrols are sent out
+S.PYR	пирамида 	an ancient massive structure of square ground plan with four triangular faces meeting at a point and used for enclosing tombs
+S.PYRS	пирамиди 	ancient massive structures of square ground plan with four triangular faces meeting at a point and used for enclosing tombs
+S.QUAY	кей 	a structure of solid construction along a shore or bank which provides berthing for ships and which generally provides cargo handling facilities
+S.RDCR	traffic circle	a road junction formed around a central circle about which traffic moves in one direction only
+S.RECG	голф игрище 	a recreation field where golf is played
+S.RECR	хиподрум 	a track where races are held
+S.REST	ресторант 	A place where meals are served to the public
+S.RET	store	a building where goods and/or services are offered for sale
+S.RHSE	страноприемница 	a structure maintained for the rest and shelter of travelers
+S.RKRY	птича колония 	a breeding place of a colony of birds or seals
+S.RLG	религиозно място 	an ancient site of significant religious importance
+S.RLGR	приют 	a place of temporary seclusion, especially for religious groups
+S.RNCH	ранчо(а) 	a large farm specializing in extensive grazing of livestock
+S.RSD	коловоз 	a short track parallel to and joining the main track
+S.RSGNL	жп сигнализация 	a signal at the entrance of a particular section of track governing the movement of trains
+S.RSRT	курорт 	a specialized facility for vacation, health, or participation sports activities
+S.RSTN	жп гара 	a facility comprising ticket office, platforms, etc. for loading and unloading train passengers and freight
+S.RSTNQ	изоставена жп гара	
+S.RSTP	жп спирка 	a place lacking station facilities where trains stop to pick up and unload passengers and freight
+S.RSTPQ	изоставена жп спирка	
+S.RUIN	руина(и) 	a destroyed or decayed structure which is no longer functional
+S.SCH	училище 	building(s) where instruction in one or more branches of knowledge takes place
+S.SCHA	земеделско училище 	a school with a curriculum focused on agriculture
+S.SCHC	колеж 	the grounds and buildings of an institution of higher learning
+S.SCHL	language school	Language Schools & Institutions
+S.SCHM	военен колеж 	a school at which military science forms the core of the curriculum
+S.SCHN	морско училище 	a school at which maritime sciences form the core of the curriculum
+S.SCHT	technical school	post-secondary school with a specifically technical or vocational curriculum
+S.SECP	State Exam Prep Centre	state exam preparation centres
+S.SHPF	кошара за овце 	a fence or wall enclosure for sheep and other small herd animals
+S.SHRN	светилище 	a structure or place memorializing a person or religious concept
+S.SHSE	хамбар 	a building for storing goods, especially provisions
+S.SLCE	шлюз 	a conduit or passage for carrying off surplus water from a waterbody, usually regulated by means of a sluice gate
+S.SNTR	санаториум 	a facility where victims of physical or mental disorders are treated
+S.SPA	спа 	a resort area usually developed around a medicinal spring
+S.SPLY	преливник 	a passage or outlet through which surplus water flows over, around or through a dam
+S.SQR	площад 	a broad, open, public area near the center of a town or city
+S.STBL	обор 	a building for the shelter and feeding of farm animals, especially horses
+S.STDM	стадион 	a structure with an enclosure for athletic games with tiers of seats for spectators
+S.STNB	научно иследователска база 	a scientific facility used as a base from which research is carried out or monitored
+S.STNC	станция на брегова охрана 	a facility from which the coast is guarded by armed vessels
+S.STNE	експериментална станция 	a facility for carrying out experiments
+S.STNF	горска станция 	a collection of buildings and facilities for carrying out forest management
+S.STNI	инспекционна станция 	a station at which vehicles, goods, and people are inspected
+S.STNM	метереологична станция 	a station at which weather elements are recorded
+S.STNR	радио станция 	a facility for producing and transmitting information by radio waves
+S.STNS	сателитна станция 	a facility for tracking and communicating with orbiting satellites
+S.STNW	китоловна станция  	a facility for butchering whales and processing train oil
+S.STPS	стъпало 	stones or slabs placed for ease in ascending or descending a steep slope
+S.SWT	sewage treatment plant	facility for the processing of sewage and/or wastewater
+S.THTR	театър 	A building, room, or outdoor structure for the presentation of plays, films, or other dramatic performances
+S.TMB	гробница(и) 	a structure for interring bodies
+S.TMPL	храм(ове) 	an edifice dedicated to religious worship
+S.TNKD	яма за третиране на животни 	a small artificial pond used for immersing cattle in chemically treated water for disease control
+S.TOWR	кула 	a high conspicuous structure, typically much higher than its diameter
+S.TRANT	transit terminal	facilities for the handling of vehicular freight and passengers
+S.TRIG	триангулачна точка 	a point on the earth whose position has been determined by triangulation
+S.TRMO	нефтен терминал 	a tank farm or loading facility at the end of an oil pipeline
+S.TWO	temp work office	Temporary Work Offices
+S.UNIP	university prep school	University Preparation Schools & Institutions
+S.UNIV	университет 	An institution for higher learning with teaching and research facilities constituting a graduate school and professional schools that award master's degrees and doctorates and an undergraduate division that awards bachelor's degrees.
+S.USGE	представителство на САЩ 	a facility operated by the United States Government in Panama
+S.VETF	ветеринарна лечебница 	a building or camp at which veterinary services are available
+S.WALL	вал 	a thick masonry structure, usually enclosing a field or building, or forming the side of a structure
+S.WALLA	античен вал 	the remains of a linear defensive stone structure
+S.WEIR	бент(ове) 	a small dam in a stream, designed to raise the water level or to divert stream flow through a desired channel
+S.WHRF	пристан(и) 	a structure of open rather than solid construction along a shore or a bank which provides berthing for ships and cargo-handling facilities
+S.WRCK	гробница за кораби 	the site of the remains of a wrecked vessel
+S.WTRW	водопроводна станция 	a facility for supplying potable water through a water source and a system of pumps and filtration beds
+S.ZNF	свободна търговска зона 	an area, usually a section of a port, where goods may be received and shipped free of customs duty and of most customs regulations
+S.ZOO	зоопарк 	a zoological garden or park where wild animals are kept for exhibition
+T.ASPH	асфалтово езеро 	a small basin containing naturally occurring asphalt
+T.ATOL	атол(и) 	a ring-shaped coral reef which has closely spaced islands on it encircling a lagoon
+T.BAR	нанос 	a shallow ridge or mound of coarse unconsolidated material in a stream channel, at the mouth of a stream, estuary, or lagoon and in the wave-break zone along coasts
+T.BCH	бряг 	a shore zone of coarse unconsolidated sediment that extends from the low-water line to the highest reach of storm waves
+T.BCHS	брегове 	a shore zone of coarse unconsolidated sediment that extends from the low-water line to the highest reach of storm waves
+T.BDLD	Необитаема зона 	an area characterized by a maze of very closely spaced, deep, narrow, steep-sided ravines, and sharp crests and pinnacles
+T.BLDR	Скалиста зона 	a high altitude or high latitude bare, flat area covered with large angular rocks
+T.BLHL	ноздра(и) 	a hole in coastal rock through which sea water is forced by a rising tide or waves and spurted through an outlet into the air
+T.BLOW	пукнатина(и) 	a small depression in sandy terrain, caused by wind erosion
+T.BNCH	банка 	a long, narrow bedrock platform bounded by steeper slopes above and below, usually overlooking a waterbody
+T.BUTE	Изолирана скала(и) 	a small, isolated, usually flat-topped hill with steep sides
+T.CAPE	нос 	a land area, more prominent than a point, projecting into the sea and marking a notable change in coastal direction
+T.CFT	цепнатина(и) 	a deep narrow slot, notch, or groove in a coastal cliff
+T.CLDA	Вулканично пропадане 	a depression measuring kilometers across formed by the collapse of a volcanic mountain
+T.CLF	урва(и) 	a high, steep to perpendicular slope overlooking a waterbody or lower area
+T.CNYN	каньон 	a deep, narrow valley with steep sides cutting into a plateau or mountainous area
+T.CONE	конус(и) 	a conical landform composed of mud or volcanic material
+T.CRDR	коридор 	a strip or area of land having significance as an access way
+T.CRQ	циркус 	a bowl-like hollow partially surrounded by cliffs or steep slopes at the head of a glaciated valley
+T.CRQS	циркуси 	bowl-like hollows partially surrounded by cliffs or steep slopes at the head of a glaciated valley
+T.CRTR	кратер(и) 	a generally circular saucer or bowl-shaped depression caused by volcanic or meteorite explosive action
+T.CUET	стръмен хълм(ове) 	an asymmetric ridge formed on tilted strata
+T.DLTA	делта 	a flat plain formed by alluvial deposits at the mouth of a stream
+T.DPR	депресия(и) 	a low area surrounded by higher land and usually characterized by interior drainage
+T.DSRT	пустина(и) 	a large area with little or no vegetation due to extreme environmental conditions
+T.DUNE	дюня(и) 	a wave form, ridge or star shape feature composed of sand
+T.DVD	разделение 	a line separating adjacent drainage basins
+T.ERG	пясъчна пустиня 	an extensive tract of shifting sand and sand dunes
+T.FAN	ветрило(а) 	a fan-shaped wedge of coarse alluvium with apex merging with a mountain stream bed and the fan spreading out at a low angle slope onto an adjacent plain
+T.FORD	брод 	a shallow part of a stream which can be crossed on foot or by land vehicle
+T.FSR	цепнатина 	a crack associated with volcanism
+T.GAP	клисура 	a low place in a ridge, not used for transportation
+T.GRGE	пролом(и) 	a short, narrow, steep-sided section of a stream valley
+T.HDLD	нос 	a high projection of land extending into a large body of water beyond the line of the coast
+T.HLL	възвишение 	a rounded elevation of limited extent rising above the surrounding land with local relief of less than 300m
+T.HLLS	възвишения 	rounded elevations of limited extent rising above the surrounding land with local relief of less than 300m
+T.HMCK	хамак(и) 	a patch of ground, distinct from and slightly above the surrounding plain or wetland. Often occurs in groups
+T.HMDA	пустинно плато 	a relatively sand-free, high bedrock plateau in a hot desert, with or without a gravel veneer
+T.INTF	промеждутък 	a relatively undissected upland between adjacent stream valleys
+T.ISL	остров 	a tract of land, smaller than a continent, surrounded by water at high water
+T.ISLET	islet	small island, bigger than rock, smaller than island.
+T.ISLF	искуствен остров 	an island created by landfill or diking and filling in a wetland, bay, or lagoon
+T.ISLM	мангров остров 	a mangrove swamp surrounded by a waterbody
+T.ISLS	острови 	tracts of land, smaller than a continent, surrounded by water at high water
+T.ISLT	остров свързан със сушата 	a coastal island connected to the mainland by barrier beaches, levees or dikes
+T.ISLX	част от остров	
+T.ISTH	провлак 	a narrow strip of land connecting two larger land masses and bordered by water
+T.KRST	карст 	a distinctive landscape developed on soluble rock such as limestone characterized by sinkholes, caves, disappearing streams, and underground drainage
+T.LAVA	зона с лава 	an area of solidified lava
+T.LEV	вал 	a natural low embankment bordering a distributary or meandering stream; often built up artificially to control floods
+T.MESA	скалисто плато(а) 	a flat-topped, isolated elevation with steep slopes on all sides, less extensive than a plateau
+T.MND	могила(и) 	a low, isolated, rounded hill
+T.MRN	морена 	a mound, ridge, or other accumulation of glacial till
+T.MT	планина 	an elevation standing high above the surrounding area with small summit area, steep slopes and local relief of 300m or more
+T.MTS	планини 	a mountain range or a group of mountains or high ridges
+T.NKM	Извивка между меандри 	a narrow strip of land between the two limbs of a meander loop at its narrowest point
+T.NTK	Ледникова скала 	a rock or mountain peak protruding through glacial ice
+T.NTKS	Ледникови скали 	rocks or mountain peaks protruding through glacial ice
+T.PAN	котловина 	a near-level shallow, natural depression or basin, usually containing an intermittent lake, pond, or pool
+T.PANS	котловини 	a near-level shallow, natural depression or basin, usually containing an intermittent lake, pond, or pool
+T.PASS	Дефиле 	a break in a mountain range or other high obstruction, used for transportation from one side to the other [See also gap]
+T.PEN	полуостров 	an elongate area of land projecting into a body of water and nearly surrounded by water
+T.PENX	част от полуостров	
+T.PK	връх 	a pointed elevation atop a mountain, ridge, or other hypsographic feature
+T.PKS	върхове 	pointed elevations atop a mountain, ridge, or other hypsographic features
+T.PLAT	плато 	an elevated plain with steep slopes on one or more sides, and often with incised streams
+T.PLATX	част от плато	
+T.PLDR	Преградена с дига зона 	an area reclaimed from the sea by diking and draining
+T.PLN	поле(та) 	an extensive area of comparatively level to gently undulating land, lacking surface irregularities, and usually adjacent to a higher area
+T.PLNX	Част от поле	
+T.PROM	издатина(и) 	a bluff or prominent hill overlooking or projecting into a lowland
+T.PT	Място 	a tapering piece of land projecting into a body of water, less prominent than a cape
+T.PTS	Места 	tapering pieces of land projecting into a body of water, less prominent than a cape
+T.RDGB	Плажен хребет 	a ridge of sand just inland and parallel to the beach, usually in series
+T.RDGE	хребет(и) 	a long narrow elevation with steep sides, and a more or less continuous crest
+T.REG	камениста пустиня 	a desert plain characterized by a surface veneer of gravel and stones
+T.RK	скала 	a conspicuous, isolated rocky mass
+T.RKFL	Свлачище 	an irregular mass of fallen rock at the base of a cliff or steep slope
+T.RKS	скали 	conspicuous, isolated rocky masses
+T.SAND	Пясъчна област 	a tract of land covered with sand
+T.SBED	Сухо легло на поток 	a channel formerly containing the water of a stream
+T.SCRP	Насип 	a long line of cliffs or steep slopes separating level surfaces above and below
+T.SDL	Седловина 	a broad, open pass crossing a ridge or between hills or mountains
+T.SHOR	бряг 	a narrow zone bordering a waterbody which covers and uncovers at high and low water, respectively
+T.SINK	Впадина 	a small crater-shape depression in a karst area
+T.SLID	Стръмнина 	a mound of earth material, at the base of a slope and the associated scoured area
+T.SLP	наклон(и) 	a surface with a relatively uniform slope angle
+T.SPIT	Дълъг подводен бряг 	a narrow, straight or curved continuation of a beach into a waterbody
+T.SPUR	Издадена скала(и) 	a subordinate ridge projecting outward from a hill, mountain or other elevation
+T.TAL	Склон 	a steep concave slope formed by an accumulation of loose rock fragments at the base of a cliff or steep slope
+T.TRGD	бразда(и) между дюни 	a long wind-swept trough between parallel longitudinal dunes
+T.TRR	тераса 	a long, narrow alluvial platform bounded by steeper slopes above and below, usually overlooking a waterbody
+T.UPLD	низина 	an extensive interior region of high land with low to moderate surface relief
+T.VAL	долина 	an elongated depression usually traversed by a stream
+T.VALG	Наклонена долина 	a valley the floor of which is notably higher than the valley or shore to which it leads; most common in areas that have been glaciated
+T.VALS	долини 	elongated depressions usually traversed by a stream
+T.VALX	част от долина	
+T.VLC	вулкан 	a conical elevation composed of volcanic materials with a crater at the top
+U.APNU	Козирка 	a gentle slope, with a generally smooth surface, particularly found around groups of islands and seamounts
+U.ARCU	Арка 	a low bulge around the southeastern end of the island of Hawaii
+U.ARRU	Нагъване 	an area of subdued corrugations off Baja California
+U.BDLU	Гранична област 	a region adjacent to a continent, normally occupied by or bordering a shelf, that is highly irregular with depths well in excess of those typical of a shelf
+U.BKSU	Крайбрежия 	elevations, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for safe surface navigation
+U.BNKU	Крайбрежие 	an elevation, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for safe surface navigation
+U.BSNU	басейн 	a depression more or less equidimensional in plan and of variable extent
+U.CDAU	кордилиери 	an entire mountain system including the subordinate ranges, interior plateaus, and basins
+U.CNSU	каньони 	relatively narrow, deep depressions with steep sides, the bottom of which generally has a continuous slope
+U.CNYU	каньон 	a relatively narrow, deep depression with steep sides, the bottom of which generally has a continuous slope
+U.CRSU	Континентална издатина 	a gentle slope rising from oceanic depths towards the foot of a continental slope
+U.DEPU	Бездна 	a localized deep area within the confines of a larger feature, such as a trough, basin or trench
+U.EDGU	бряг 	a line along which there is a marked increase of slope at the outer margin of a continental shelf or island shelf
+U.ESCU	Насип 	an elongated and comparatively steep slope separating flat or gently sloping areas
+U.FANU	Вертрило 	a relatively smooth feature normally sloping away from the lower termination of a canyon or canyon system
+U.FLTU	Плитчина 	a small level or nearly level area
+U.FRZU	Зона на накъсване 	an extensive linear zone of irregular topography of the sea floor, characterized by steep-sided or asymmetrical ridges, troughs, or escarpments
+U.FURU	Улей 	a closed, linear, narrow, shallow depression
+U.GAPU	клисура 	a narrow break in a ridge or rise
+U.GLYU	Дере 	a small valley-like feature
+U.HLLU	Стръмнина 	an elevation rising generally less than 500 meters
+U.HLSU	Стръмнини 	elevations rising generally less than 500 meters
+U.HOLU	Вдлъбнатина 	a small depression of the sea floor
+U.KNLU	Хълм 	an elevation rising generally more than 500 meters and less than 1,000 meters and of limited extent across the summit
+U.KNSU	Хълмове 	elevations rising generally more than 500 meters and less than 1,000 meters and of limited extent across the summits
+U.LDGU	тераса 	a rocky projection or outcrop, commonly linear and near shore
+U.LEVU	Стръмен бряг 	an embankment bordering a canyon, valley, or seachannel
+U.MESU	Високо плато 	an isolated, extensive, flat-topped elevation on the shelf, with relatively steep sides
+U.MNDU	Могила  	a low, isolated, rounded hill
+U.MOTU	Ров 	an annular depression that may not be continuous, located at the base of many seamounts, islands, and other isolated elevations
+U.MTU	планина 	a well-delineated subdivision of a large and complex positive feature
+U.PKSU	върхове 	prominent elevations, part of a larger feature, either pointed or of very limited extent across the summit
+U.PKU	връх 	a prominent elevation, part of a larger feature, either pointed or of very limited extent across the summit
+U.PLNU	Поле 	a flat, gently sloping or nearly level region
+U.PLTU	плато 	a comparatively flat-topped feature of considerable extent, dropping off abruptly on one or more sides
+U.PNLU	Шпиц 	a high tower or spire-shaped pillar of rock or coral, alone or cresting a summit
+U.PRVU	Регион 	a region identifiable by a group of similar physiographic features whose characteristics are markedly in contrast with surrounding areas
+U.RDGU	Гребен 	a long narrow elevation with steep sides
+U.RDSU	Гребени 	long narrow elevations with steep sides
+U.RFSU	Рифове 	surface-navigation hazards composed of consolidated material
+U.RFU	Риф 	a surface-navigation hazard composed of consolidated material
+U.RISU	възвишение 	a broad elevation that rises gently, and generally smoothly, from the sea floor
+U.SCNU	Морски канал 	a continuously sloping, elongated depression commonly found in fans or plains and customarily bordered by levees on one or two sides
+U.SCSU	Морски канали 	continuously sloping, elongated depressions commonly found in fans or plains and customarily bordered by levees on one or two sides
+U.SDLU	Седловина 	a low part, resembling in shape a saddle, in a ridge or between contiguous seamounts
+U.SHFU	шелф 	a zone adjacent to a continent (or around an island) that extends from the low water line to a depth at which there is usually a marked increase of slope towards oceanic depths
+U.SHLU	Плитчина 	a surface-navigation hazard composed of unconsolidated material
+U.SHSU	Плитчини 	hazards to surface navigation composed of unconsolidated material
+U.SHVU	Шелфова долина 	a valley on the shelf, generally the shoreward extension of a canyon
+U.SILU	Интрузия 	the low part of a gap or saddle separating basins
+U.SLPU	скат 	the slope seaward from the shelf edge to the beginning of a continental rise or the point where there is a general reduction in slope
+U.SMSU	Морски връх 	elevations rising generally more than 1,000 meters and of limited extent across the summit
+U.SMU	Морски върхове 	an elevation rising generally more than 1,000 meters and of limited extent across the summit
+U.SPRU	хребет 	a subordinate elevation, ridge, or rise projecting outward from a larger feature
+U.TERU	тераса 	a relatively flat horizontal or gently inclined surface, sometimes long and narrow, which is bounded by a steeper ascending slope on one side and by a steep descending slope on the opposite side
+U.TMSU	Плоски възвишения 	seamounts having a comparatively smooth, flat top
+U.TMTU	Плоско възвишение 	a seamount having a comparatively smooth, flat top
+U.TNGU	нос 	an elongate (tongue-like) extension of a flat sea floor into an adjacent higher feature
+U.TRGU	падина 	a long depression of the sea floor characteristically flat bottomed and steep sided, and normally shallower than a trench
+U.TRNU	просека 	a long, narrow, characteristically very deep and asymmetrical depression of the sea floor, with relatively steep sides
+U.VALU	долина 	a relatively shallow, wide depression, the bottom of which usually has a continuous gradient
+U.VLSU	долини 	a relatively shallow, wide depression, the bottom of which usually has a continuous gradient
+V.BUSH	храст(и) 	a small clump of conspicuous bushes in an otherwise bare area
+V.CULT	обработваеми площи 	an area under cultivation
+V.FRST	гори 	an area dominated by tree vegetation
+V.FRSTF	горски вкаменелости 	a forest fossilized by geologic processes and now exposed at the earth's surface
+V.GRSLD	ливади 	an area dominated by grass vegetation
+V.GRVC	кокосови насаждения 	a planting of coconut trees
+V.GRVO	маслинова плантация 	a planting of olive trees
+V.GRVP	палмова плантация 	a planting of palm trees
+V.GRVPN	иглолистни насаждения  	a planting of pine trees
+V.HTH	пустош 	an upland moor or sandy area dominated by low shrubby vegetation including heather
+V.MDW	ливада 	a small, poorly drained area dominated by grassy vegetation
+V.OCH	овощна градина(и) 	a planting of fruit or nut trees
+V.SCRB	храсти 	an area of low trees, bushes, and shrubs stunted by some environmental limitation
+V.TREE	дървета 	a conspicuous tree used as a landmark
+V.TUND	тундра 	a marshy, treeless, high latitude plain, dominated by mosses, lichens, and low shrub vegetation under permafrost conditions
+V.VIN	лозя 	a planting of grapevines
+V.VINS	лозя 	plantings of grapevines
+V.ll	не определени	
+null	not available	
